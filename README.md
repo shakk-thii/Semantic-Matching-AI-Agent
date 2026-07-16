@@ -1,8 +1,6 @@
 # AI Semantic Matching Engine
 
-A semantic matching system that pairs student/mentee profiles with business/mentor
-profiles using Sentence Transformer embeddings and cosine similarity, with an
-explainable AI reasoning layer and a built-in feedback loop.
+A semantic ai agent that matches business owners and other relations with students based on cosine similarity , traits , requirements and other attributes
 
 ## How it works
 1. **Parse profiles** — student and business profiles are combined into a single
