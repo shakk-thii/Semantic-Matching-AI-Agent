@@ -1,0 +1,1056 @@
+student_id,business_id,rating_1_to_5,accepted_match,feedback_comment
+STU0001,BUS0142,5,True,"Scheduling was hard, but content was valuable."
+STU0001,BUS0067,3,True,Somewhat helpful but not a strong fit.
+STU0001,BUS0117,5,True,Great alignment on skills and goals.
+STU0002,BUS0004,5,True,Excellent guidance on career direction.
+STU0002,BUS0135,2,False,Somewhat helpful but not a strong fit.
+STU0002,BUS0101,4,True,Somewhat helpful but not a strong fit.
+STU0003,BUS0094,3,True,Mentor's experience was very relevant.
+STU0003,BUS0175,5,True,Not enough overlap in interests.
+STU0003,BUS0119,5,True,Great alignment on skills and goals.
+STU0004,BUS0057,5,True,Somewhat helpful but not a strong fit.
+STU0005,BUS0157,5,True,"Scheduling was hard, but content was valuable."
+STU0005,BUS0004,4,True,Not enough overlap in interests.
+STU0005,BUS0101,4,True,Great alignment on skills and goals.
+STU0006,BUS0057,4,True,"Scheduling was hard, but content was valuable."
+STU0006,BUS0107,4,True,"Good match, would recommend."
+STU0007,BUS0130,5,True,"Good match, would recommend."
+STU0007,BUS0158,5,True,Excellent guidance on career direction.
+STU0007,BUS0063,4,True,Somewhat helpful but not a strong fit.
+STU0008,BUS0183,5,True,Excellent guidance on career direction.
+STU0008,BUS0076,4,True,Mentor's experience was very relevant.
+STU0009,BUS0021,1,False,Not enough overlap in interests.
+STU0009,BUS0188,5,True,"Scheduling was hard, but content was valuable."
+STU0009,BUS0166,5,True,Mentor's experience was very relevant.
+STU0010,BUS0033,4,True,Somewhat helpful but not a strong fit.
+STU0011,BUS0069,3,True,Not enough overlap in interests.
+STU0012,BUS0057,5,True,Great alignment on skills and goals.
+STU0013,BUS0068,4,True,Somewhat helpful but not a strong fit.
+STU0013,BUS0115,5,True,"Good match, would recommend."
+STU0013,BUS0130,1,False,Great alignment on skills and goals.
+STU0014,BUS0148,5,True,Great alignment on skills and goals.
+STU0014,BUS0054,4,True,Not enough overlap in interests.
+STU0015,BUS0010,5,True,Not enough overlap in interests.
+STU0015,BUS0144,3,True,"Good match, would recommend."
+STU0016,BUS0125,5,True,Great alignment on skills and goals.
+STU0016,BUS0178,4,True,Not enough overlap in interests.
+STU0017,BUS0091,5,True,"Scheduling was hard, but content was valuable."
+STU0017,BUS0200,4,True,Somewhat helpful but not a strong fit.
+STU0018,BUS0032,4,True,Not enough overlap in interests.
+STU0018,BUS0112,5,True,Excellent guidance on career direction.
+STU0018,BUS0180,4,True,"Scheduling was hard, but content was valuable."
+STU0019,BUS0140,4,True,Mentor's experience was very relevant.
+STU0020,BUS0015,5,True,Excellent guidance on career direction.
+STU0020,BUS0110,4,True,Not enough overlap in interests.
+STU0020,BUS0180,4,True,Mentor's experience was very relevant.
+STU0021,BUS0192,5,True,Somewhat helpful but not a strong fit.
+STU0021,BUS0147,4,True,Not enough overlap in interests.
+STU0022,BUS0154,5,True,"Good match, would recommend."
+STU0022,BUS0183,5,True,Not enough overlap in interests.
+STU0024,BUS0102,5,True,Mentor's experience was very relevant.
+STU0024,BUS0165,5,True,"Scheduling was hard, but content was valuable."
+STU0025,BUS0143,4,True,Not enough overlap in interests.
+STU0025,BUS0154,5,True,Mentor's experience was very relevant.
+STU0026,BUS0059,5,True,Not enough overlap in interests.
+STU0026,BUS0063,5,True,Somewhat helpful but not a strong fit.
+STU0026,BUS0116,4,True,Great alignment on skills and goals.
+STU0027,BUS0036,4,True,"Good match, would recommend."
+STU0027,BUS0120,5,True,"Good match, would recommend."
+STU0028,BUS0021,5,True,"Scheduling was hard, but content was valuable."
+STU0028,BUS0186,5,True,Excellent guidance on career direction.
+STU0029,BUS0093,5,True,Somewhat helpful but not a strong fit.
+STU0029,BUS0193,5,True,Mentor's experience was very relevant.
+STU0030,BUS0012,5,True,"Scheduling was hard, but content was valuable."
+STU0030,BUS0042,5,True,"Good match, would recommend."
+STU0030,BUS0044,4,True,Somewhat helpful but not a strong fit.
+STU0031,BUS0124,5,True,Great alignment on skills and goals.
+STU0032,BUS0116,5,True,Not enough overlap in interests.
+STU0032,BUS0130,5,True,Mentor's experience was very relevant.
+STU0033,BUS0166,5,True,Not enough overlap in interests.
+STU0033,BUS0188,3,True,"Scheduling was hard, but content was valuable."
+STU0033,BUS0142,2,False,Not enough overlap in interests.
+STU0034,BUS0199,4,True,Not enough overlap in interests.
+STU0034,BUS0046,3,True,Excellent guidance on career direction.
+STU0034,BUS0187,5,True,Not enough overlap in interests.
+STU0035,BUS0078,5,True,Excellent guidance on career direction.
+STU0035,BUS0003,5,True,Not enough overlap in interests.
+STU0035,BUS0048,4,True,Great alignment on skills and goals.
+STU0036,BUS0048,5,True,Somewhat helpful but not a strong fit.
+STU0037,BUS0160,3,True,"Good match, would recommend."
+STU0037,BUS0085,4,True,Not enough overlap in interests.
+STU0038,BUS0142,4,True,Excellent guidance on career direction.
+STU0038,BUS0091,5,True,Great alignment on skills and goals.
+STU0039,BUS0114,4,True,Mentor's experience was very relevant.
+STU0040,BUS0084,5,True,Excellent guidance on career direction.
+STU0040,BUS0142,5,True,Mentor's experience was very relevant.
+STU0041,BUS0177,5,True,"Good match, would recommend."
+STU0041,BUS0073,4,True,Excellent guidance on career direction.
+STU0042,BUS0049,4,True,Excellent guidance on career direction.
+STU0043,BUS0109,4,True,Excellent guidance on career direction.
+STU0043,BUS0068,4,True,Great alignment on skills and goals.
+STU0044,BUS0137,4,True,Somewhat helpful but not a strong fit.
+STU0044,BUS0130,3,True,Excellent guidance on career direction.
+STU0044,BUS0013,3,True,"Scheduling was hard, but content was valuable."
+STU0045,BUS0123,4,True,Great alignment on skills and goals.
+STU0045,BUS0039,5,True,Great alignment on skills and goals.
+STU0046,BUS0068,4,True,Mentor's experience was very relevant.
+STU0046,BUS0059,5,True,"Scheduling was hard, but content was valuable."
+STU0047,BUS0001,4,True,Great alignment on skills and goals.
+STU0047,BUS0176,5,True,"Good match, would recommend."
+STU0048,BUS0060,5,True,Somewhat helpful but not a strong fit.
+STU0049,BUS0109,5,True,"Scheduling was hard, but content was valuable."
+STU0050,BUS0062,4,True,Excellent guidance on career direction.
+STU0051,BUS0159,3,True,"Scheduling was hard, but content was valuable."
+STU0052,BUS0149,5,True,Mentor's experience was very relevant.
+STU0052,BUS0054,5,True,Great alignment on skills and goals.
+STU0053,BUS0013,5,True,Not enough overlap in interests.
+STU0053,BUS0075,4,True,Excellent guidance on career direction.
+STU0054,BUS0080,5,True,Not enough overlap in interests.
+STU0054,BUS0116,3,True,Great alignment on skills and goals.
+STU0055,BUS0158,5,True,"Good match, would recommend."
+STU0055,BUS0087,5,True,Not enough overlap in interests.
+STU0055,BUS0114,4,True,Excellent guidance on career direction.
+STU0056,BUS0156,5,True,Somewhat helpful but not a strong fit.
+STU0056,BUS0120,4,True,Somewhat helpful but not a strong fit.
+STU0057,BUS0138,5,True,Excellent guidance on career direction.
+STU0058,BUS0160,3,True,Excellent guidance on career direction.
+STU0058,BUS0026,5,True,"Scheduling was hard, but content was valuable."
+STU0059,BUS0158,4,True,"Good match, would recommend."
+STU0059,BUS0068,5,True,"Good match, would recommend."
+STU0060,BUS0178,4,True,Great alignment on skills and goals.
+STU0060,BUS0044,5,True,Excellent guidance on career direction.
+STU0060,BUS0071,5,True,Mentor's experience was very relevant.
+STU0061,BUS0027,5,True,Excellent guidance on career direction.
+STU0061,BUS0058,4,True,"Good match, would recommend."
+STU0062,BUS0045,4,True,Great alignment on skills and goals.
+STU0062,BUS0050,5,True,Excellent guidance on career direction.
+STU0063,BUS0151,4,True,Excellent guidance on career direction.
+STU0063,BUS0163,4,True,Not enough overlap in interests.
+STU0064,BUS0175,3,True,Somewhat helpful but not a strong fit.
+STU0064,BUS0095,5,True,Somewhat helpful but not a strong fit.
+STU0064,BUS0090,5,True,"Good match, would recommend."
+STU0065,BUS0047,3,True,Not enough overlap in interests.
+STU0066,BUS0190,4,True,Excellent guidance on career direction.
+STU0066,BUS0169,5,True,Not enough overlap in interests.
+STU0066,BUS0140,5,True,Great alignment on skills and goals.
+STU0067,BUS0160,3,True,Not enough overlap in interests.
+STU0067,BUS0066,5,True,Mentor's experience was very relevant.
+STU0068,BUS0002,4,True,Somewhat helpful but not a strong fit.
+STU0068,BUS0064,5,True,"Scheduling was hard, but content was valuable."
+STU0069,BUS0164,5,True,"Good match, would recommend."
+STU0070,BUS0191,2,False,Not enough overlap in interests.
+STU0070,BUS0069,5,True,Great alignment on skills and goals.
+STU0071,BUS0198,5,True,Mentor's experience was very relevant.
+STU0071,BUS0002,4,True,Excellent guidance on career direction.
+STU0072,BUS0017,4,True,Great alignment on skills and goals.
+STU0072,BUS0029,4,True,Not enough overlap in interests.
+STU0073,BUS0142,5,True,Somewhat helpful but not a strong fit.
+STU0073,BUS0188,4,True,Somewhat helpful but not a strong fit.
+STU0073,BUS0133,5,True,Somewhat helpful but not a strong fit.
+STU0075,BUS0137,4,True,Mentor's experience was very relevant.
+STU0075,BUS0063,4,True,Excellent guidance on career direction.
+STU0076,BUS0038,5,True,Excellent guidance on career direction.
+STU0076,BUS0138,4,True,Mentor's experience was very relevant.
+STU0076,BUS0078,5,True,Not enough overlap in interests.
+STU0077,BUS0181,3,True,"Scheduling was hard, but content was valuable."
+STU0077,BUS0144,5,True,Excellent guidance on career direction.
+STU0079,BUS0090,4,True,"Scheduling was hard, but content was valuable."
+STU0079,BUS0118,5,True,Somewhat helpful but not a strong fit.
+STU0079,BUS0026,2,False,Mentor's experience was very relevant.
+STU0080,BUS0140,4,True,Excellent guidance on career direction.
+STU0080,BUS0195,4,True,"Scheduling was hard, but content was valuable."
+STU0081,BUS0027,4,True,Excellent guidance on career direction.
+STU0081,BUS0058,4,True,Excellent guidance on career direction.
+STU0081,BUS0024,5,True,Somewhat helpful but not a strong fit.
+STU0083,BUS0083,4,True,Not enough overlap in interests.
+STU0083,BUS0088,4,True,Mentor's experience was very relevant.
+STU0083,BUS0189,5,True,Somewhat helpful but not a strong fit.
+STU0084,BUS0110,4,True,Excellent guidance on career direction.
+STU0084,BUS0167,5,True,Not enough overlap in interests.
+STU0084,BUS0043,5,True,Not enough overlap in interests.
+STU0085,BUS0149,5,True,Not enough overlap in interests.
+STU0085,BUS0123,4,True,Mentor's experience was very relevant.
+STU0086,BUS0094,5,True,"Scheduling was hard, but content was valuable."
+STU0087,BUS0114,5,True,Excellent guidance on career direction.
+STU0087,BUS0128,3,True,Somewhat helpful but not a strong fit.
+STU0087,BUS0191,5,True,Somewhat helpful but not a strong fit.
+STU0088,BUS0052,4,True,"Scheduling was hard, but content was valuable."
+STU0088,BUS0164,3,True,"Good match, would recommend."
+STU0089,BUS0060,4,True,"Good match, would recommend."
+STU0089,BUS0179,3,True,Somewhat helpful but not a strong fit.
+STU0089,BUS0177,4,True,Excellent guidance on career direction.
+STU0090,BUS0092,4,True,"Scheduling was hard, but content was valuable."
+STU0090,BUS0182,4,True,Not enough overlap in interests.
+STU0090,BUS0015,5,True,Excellent guidance on career direction.
+STU0091,BUS0052,3,True,Not enough overlap in interests.
+STU0091,BUS0124,4,True,"Good match, would recommend."
+STU0091,BUS0099,5,True,Not enough overlap in interests.
+STU0092,BUS0093,2,False,Mentor's experience was very relevant.
+STU0092,BUS0034,5,True,Mentor's experience was very relevant.
+STU0092,BUS0003,5,True,Great alignment on skills and goals.
+STU0093,BUS0112,5,True,Somewhat helpful but not a strong fit.
+STU0094,BUS0047,3,True,"Scheduling was hard, but content was valuable."
+STU0095,BUS0093,5,True,Not enough overlap in interests.
+STU0096,BUS0071,5,True,"Good match, would recommend."
+STU0096,BUS0005,5,True,Not enough overlap in interests.
+STU0096,BUS0166,5,True,Somewhat helpful but not a strong fit.
+STU0097,BUS0074,3,True,Not enough overlap in interests.
+STU0098,BUS0007,4,True,Somewhat helpful but not a strong fit.
+STU0099,BUS0047,2,False,Mentor's experience was very relevant.
+STU0099,BUS0159,4,True,"Scheduling was hard, but content was valuable."
+STU0099,BUS0008,5,True,Great alignment on skills and goals.
+STU0100,BUS0158,5,True,Somewhat helpful but not a strong fit.
+STU0101,BUS0083,4,True,Excellent guidance on career direction.
+STU0102,BUS0105,5,True,Not enough overlap in interests.
+STU0102,BUS0062,4,True,Somewhat helpful but not a strong fit.
+STU0103,BUS0163,4,True,Mentor's experience was very relevant.
+STU0103,BUS0192,3,True,Excellent guidance on career direction.
+STU0103,BUS0147,4,True,Great alignment on skills and goals.
+STU0104,BUS0022,4,True,"Good match, would recommend."
+STU0104,BUS0019,5,True,"Good match, would recommend."
+STU0104,BUS0098,5,True,"Good match, would recommend."
+STU0105,BUS0174,4,True,Great alignment on skills and goals.
+STU0105,BUS0068,3,True,Not enough overlap in interests.
+STU0106,BUS0024,3,True,"Good match, would recommend."
+STU0107,BUS0082,2,False,"Good match, would recommend."
+STU0107,BUS0025,4,True,Not enough overlap in interests.
+STU0107,BUS0008,5,True,"Scheduling was hard, but content was valuable."
+STU0108,BUS0107,4,True,"Scheduling was hard, but content was valuable."
+STU0108,BUS0019,4,True,Excellent guidance on career direction.
+STU0108,BUS0097,4,True,Somewhat helpful but not a strong fit.
+STU0110,BUS0052,4,True,Mentor's experience was very relevant.
+STU0110,BUS0171,5,True,Great alignment on skills and goals.
+STU0111,BUS0182,5,True,"Good match, would recommend."
+STU0111,BUS0015,4,True,"Scheduling was hard, but content was valuable."
+STU0112,BUS0195,3,True,Somewhat helpful but not a strong fit.
+STU0112,BUS0090,5,True,Great alignment on skills and goals.
+STU0113,BUS0053,5,True,Not enough overlap in interests.
+STU0113,BUS0177,5,True,Somewhat helpful but not a strong fit.
+STU0113,BUS0002,5,True,Excellent guidance on career direction.
+STU0114,BUS0101,5,True,Excellent guidance on career direction.
+STU0114,BUS0019,5,True,Somewhat helpful but not a strong fit.
+STU0115,BUS0044,5,True,Mentor's experience was very relevant.
+STU0116,BUS0148,5,True,Excellent guidance on career direction.
+STU0116,BUS0035,2,False,"Scheduling was hard, but content was valuable."
+STU0116,BUS0074,5,True,Mentor's experience was very relevant.
+STU0117,BUS0059,3,True,Mentor's experience was very relevant.
+STU0117,BUS0128,3,True,"Good match, would recommend."
+STU0118,BUS0008,5,True,Excellent guidance on career direction.
+STU0118,BUS0153,4,True,"Good match, would recommend."
+STU0119,BUS0075,5,True,Great alignment on skills and goals.
+STU0119,BUS0116,5,True,Mentor's experience was very relevant.
+STU0120,BUS0002,4,True,Mentor's experience was very relevant.
+STU0120,BUS0132,2,False,Somewhat helpful but not a strong fit.
+STU0121,BUS0047,4,True,"Scheduling was hard, but content was valuable."
+STU0121,BUS0138,3,True,Excellent guidance on career direction.
+STU0122,BUS0045,5,True,Somewhat helpful but not a strong fit.
+STU0122,BUS0102,5,True,Excellent guidance on career direction.
+STU0123,BUS0031,4,True,"Good match, would recommend."
+STU0124,BUS0131,1,False,Mentor's experience was very relevant.
+STU0124,BUS0102,5,True,Mentor's experience was very relevant.
+STU0124,BUS0026,4,True,Excellent guidance on career direction.
+STU0125,BUS0025,4,True,"Good match, would recommend."
+STU0125,BUS0017,4,True,Excellent guidance on career direction.
+STU0125,BUS0030,5,True,Somewhat helpful but not a strong fit.
+STU0126,BUS0031,4,True,"Scheduling was hard, but content was valuable."
+STU0126,BUS0039,4,True,Not enough overlap in interests.
+STU0126,BUS0086,4,True,"Good match, would recommend."
+STU0127,BUS0152,5,True,Somewhat helpful but not a strong fit.
+STU0127,BUS0159,1,False,Excellent guidance on career direction.
+STU0127,BUS0003,5,True,"Good match, would recommend."
+STU0128,BUS0192,5,True,Excellent guidance on career direction.
+STU0128,BUS0092,4,True,Not enough overlap in interests.
+STU0128,BUS0015,4,True,Not enough overlap in interests.
+STU0129,BUS0034,4,True,Excellent guidance on career direction.
+STU0129,BUS0159,4,True,Great alignment on skills and goals.
+STU0129,BUS0070,5,True,Not enough overlap in interests.
+STU0130,BUS0127,4,True,Not enough overlap in interests.
+STU0130,BUS0036,5,True,Mentor's experience was very relevant.
+STU0130,BUS0182,5,True,"Good match, would recommend."
+STU0131,BUS0048,4,True,Mentor's experience was very relevant.
+STU0131,BUS0184,5,True,Mentor's experience was very relevant.
+STU0132,BUS0183,5,True,Mentor's experience was very relevant.
+STU0132,BUS0024,4,True,Mentor's experience was very relevant.
+STU0133,BUS0089,1,False,"Scheduling was hard, but content was valuable."
+STU0133,BUS0023,2,False,Somewhat helpful but not a strong fit.
+STU0134,BUS0165,4,True,Somewhat helpful but not a strong fit.
+STU0134,BUS0089,5,True,Mentor's experience was very relevant.
+STU0135,BUS0080,4,True,Excellent guidance on career direction.
+STU0135,BUS0068,5,True,Somewhat helpful but not a strong fit.
+STU0135,BUS0158,4,True,Somewhat helpful but not a strong fit.
+STU0136,BUS0090,4,True,Mentor's experience was very relevant.
+STU0136,BUS0100,3,True,Mentor's experience was very relevant.
+STU0137,BUS0183,4,True,"Scheduling was hard, but content was valuable."
+STU0138,BUS0111,5,True,Mentor's experience was very relevant.
+STU0138,BUS0110,4,True,Not enough overlap in interests.
+STU0139,BUS0181,4,True,"Scheduling was hard, but content was valuable."
+STU0140,BUS0020,3,True,"Good match, would recommend."
+STU0140,BUS0135,3,True,Somewhat helpful but not a strong fit.
+STU0141,BUS0131,5,True,Great alignment on skills and goals.
+STU0141,BUS0094,4,True,Excellent guidance on career direction.
+STU0141,BUS0175,5,True,Excellent guidance on career direction.
+STU0142,BUS0196,3,True,Somewhat helpful but not a strong fit.
+STU0142,BUS0053,5,True,Mentor's experience was very relevant.
+STU0142,BUS0007,4,True,"Scheduling was hard, but content was valuable."
+STU0143,BUS0024,5,True,"Scheduling was hard, but content was valuable."
+STU0144,BUS0146,5,True,Great alignment on skills and goals.
+STU0144,BUS0150,5,True,Great alignment on skills and goals.
+STU0144,BUS0044,5,True,"Scheduling was hard, but content was valuable."
+STU0145,BUS0189,5,True,"Good match, would recommend."
+STU0145,BUS0070,5,True,Mentor's experience was very relevant.
+STU0146,BUS0141,2,False,Not enough overlap in interests.
+STU0146,BUS0160,5,True,Somewhat helpful but not a strong fit.
+STU0147,BUS0111,3,True,"Good match, would recommend."
+STU0147,BUS0096,5,True,Mentor's experience was very relevant.
+STU0147,BUS0112,3,True,Not enough overlap in interests.
+STU0148,BUS0189,5,True,Excellent guidance on career direction.
+STU0148,BUS0093,5,True,Excellent guidance on career direction.
+STU0149,BUS0103,3,True,Mentor's experience was very relevant.
+STU0149,BUS0061,2,False,Somewhat helpful but not a strong fit.
+STU0150,BUS0073,4,True,"Scheduling was hard, but content was valuable."
+STU0150,BUS0061,5,True,"Scheduling was hard, but content was valuable."
+STU0150,BUS0197,4,True,Not enough overlap in interests.
+STU0151,BUS0110,5,True,Somewhat helpful but not a strong fit.
+STU0151,BUS0043,5,True,Great alignment on skills and goals.
+STU0152,BUS0160,3,True,"Good match, would recommend."
+STU0152,BUS0141,5,True,Great alignment on skills and goals.
+STU0153,BUS0024,5,True,"Good match, would recommend."
+STU0154,BUS0124,5,True,"Scheduling was hard, but content was valuable."
+STU0154,BUS0162,5,True,"Scheduling was hard, but content was valuable."
+STU0154,BUS0086,5,True,Not enough overlap in interests.
+STU0155,BUS0106,3,True,"Scheduling was hard, but content was valuable."
+STU0155,BUS0150,4,True,Not enough overlap in interests.
+STU0156,BUS0158,4,True,Mentor's experience was very relevant.
+STU0156,BUS0041,4,True,"Good match, would recommend."
+STU0156,BUS0109,5,True,"Good match, would recommend."
+STU0157,BUS0180,5,True,"Scheduling was hard, but content was valuable."
+STU0157,BUS0043,5,True,"Good match, would recommend."
+STU0157,BUS0163,3,True,Not enough overlap in interests.
+STU0158,BUS0099,5,True,"Good match, would recommend."
+STU0158,BUS0009,5,True,Somewhat helpful but not a strong fit.
+STU0158,BUS0039,5,True,"Good match, would recommend."
+STU0159,BUS0123,4,True,"Scheduling was hard, but content was valuable."
+STU0159,BUS0144,5,True,Somewhat helpful but not a strong fit.
+STU0159,BUS0086,4,True,"Good match, would recommend."
+STU0160,BUS0037,4,True,"Good match, would recommend."
+STU0160,BUS0056,4,True,Excellent guidance on career direction.
+STU0161,BUS0099,5,True,"Good match, would recommend."
+STU0162,BUS0124,3,True,"Scheduling was hard, but content was valuable."
+STU0162,BUS0149,2,False,"Good match, would recommend."
+STU0162,BUS0039,5,True,Mentor's experience was very relevant.
+STU0163,BUS0133,1,False,"Scheduling was hard, but content was valuable."
+STU0164,BUS0156,5,True,Great alignment on skills and goals.
+STU0164,BUS0127,5,True,"Scheduling was hard, but content was valuable."
+STU0165,BUS0162,4,True,Excellent guidance on career direction.
+STU0165,BUS0181,3,True,Excellent guidance on career direction.
+STU0165,BUS0123,5,True,Great alignment on skills and goals.
+STU0166,BUS0101,5,True,Great alignment on skills and goals.
+STU0166,BUS0135,5,True,Mentor's experience was very relevant.
+STU0166,BUS0057,5,True,Somewhat helpful but not a strong fit.
+STU0167,BUS0058,4,True,Somewhat helpful but not a strong fit.
+STU0168,BUS0130,5,True,Somewhat helpful but not a strong fit.
+STU0168,BUS0115,5,True,"Scheduling was hard, but content was valuable."
+STU0169,BUS0005,4,True,Great alignment on skills and goals.
+STU0169,BUS0067,3,True,Mentor's experience was very relevant.
+STU0170,BUS0143,3,True,Great alignment on skills and goals.
+STU0170,BUS0104,3,True,"Good match, would recommend."
+STU0171,BUS0103,4,True,"Scheduling was hard, but content was valuable."
+STU0171,BUS0185,5,True,Not enough overlap in interests.
+STU0172,BUS0006,4,True,"Good match, would recommend."
+STU0173,BUS0173,5,True,Excellent guidance on career direction.
+STU0173,BUS0143,5,True,Great alignment on skills and goals.
+STU0173,BUS0049,4,True,Excellent guidance on career direction.
+STU0174,BUS0158,5,True,Somewhat helpful but not a strong fit.
+STU0174,BUS0068,5,True,Excellent guidance on career direction.
+STU0174,BUS0174,5,True,Excellent guidance on career direction.
+STU0175,BUS0160,5,True,"Good match, would recommend."
+STU0175,BUS0090,5,True,Great alignment on skills and goals.
+STU0175,BUS0190,5,True,"Good match, would recommend."
+STU0176,BUS0019,5,True,Somewhat helpful but not a strong fit.
+STU0176,BUS0020,4,True,Somewhat helpful but not a strong fit.
+STU0176,BUS0076,5,True,Mentor's experience was very relevant.
+STU0177,BUS0190,3,True,Excellent guidance on career direction.
+STU0177,BUS0175,4,True,Somewhat helpful but not a strong fit.
+STU0177,BUS0050,5,True,Somewhat helpful but not a strong fit.
+STU0178,BUS0070,5,True,Somewhat helpful but not a strong fit.
+STU0178,BUS0083,5,True,Somewhat helpful but not a strong fit.
+STU0178,BUS0078,1,False,Mentor's experience was very relevant.
+STU0179,BUS0133,5,True,Mentor's experience was very relevant.
+STU0179,BUS0001,1,False,"Scheduling was hard, but content was valuable."
+STU0180,BUS0034,5,True,Mentor's experience was very relevant.
+STU0181,BUS0042,4,True,Mentor's experience was very relevant.
+STU0181,BUS0084,3,True,Somewhat helpful but not a strong fit.
+STU0181,BUS0011,4,True,"Scheduling was hard, but content was valuable."
+STU0182,BUS0039,4,True,Somewhat helpful but not a strong fit.
+STU0182,BUS0054,4,True,Somewhat helpful but not a strong fit.
+STU0183,BUS0125,5,True,Great alignment on skills and goals.
+STU0183,BUS0011,3,True,"Good match, would recommend."
+STU0184,BUS0079,3,True,Not enough overlap in interests.
+STU0185,BUS0070,1,False,"Good match, would recommend."
+STU0185,BUS0003,4,True,"Good match, would recommend."
+STU0185,BUS0088,4,True,Great alignment on skills and goals.
+STU0186,BUS0030,4,True,"Good match, would recommend."
+STU0187,BUS0146,5,True,Great alignment on skills and goals.
+STU0187,BUS0168,4,True,Mentor's experience was very relevant.
+STU0188,BUS0121,4,True,Mentor's experience was very relevant.
+STU0189,BUS0130,5,True,Somewhat helpful but not a strong fit.
+STU0189,BUS0128,5,True,"Good match, would recommend."
+STU0190,BUS0181,5,True,"Good match, would recommend."
+STU0190,BUS0033,5,True,Excellent guidance on career direction.
+STU0191,BUS0115,4,True,"Scheduling was hard, but content was valuable."
+STU0191,BUS0068,5,True,Great alignment on skills and goals.
+STU0191,BUS0109,5,True,Somewhat helpful but not a strong fit.
+STU0192,BUS0121,3,True,Somewhat helpful but not a strong fit.
+STU0192,BUS0086,5,True,Excellent guidance on career direction.
+STU0193,BUS0076,4,True,"Scheduling was hard, but content was valuable."
+STU0193,BUS0104,5,True,Excellent guidance on career direction.
+STU0193,BUS0101,5,True,Great alignment on skills and goals.
+STU0194,BUS0147,4,True,Great alignment on skills and goals.
+STU0194,BUS0036,5,True,Somewhat helpful but not a strong fit.
+STU0194,BUS0113,5,True,"Good match, would recommend."
+STU0195,BUS0199,4,True,Not enough overlap in interests.
+STU0195,BUS0006,5,True,Mentor's experience was very relevant.
+STU0196,BUS0156,3,True,Excellent guidance on career direction.
+STU0196,BUS0092,5,True,Not enough overlap in interests.
+STU0197,BUS0054,5,True,Somewhat helpful but not a strong fit.
+STU0198,BUS0142,4,True,"Good match, would recommend."
+STU0198,BUS0200,5,True,"Scheduling was hard, but content was valuable."
+STU0198,BUS0001,4,True,"Scheduling was hard, but content was valuable."
+STU0199,BUS0078,5,True,Not enough overlap in interests.
+STU0199,BUS0017,4,True,"Good match, would recommend."
+STU0200,BUS0163,4,True,"Good match, would recommend."
+STU0200,BUS0108,5,True,"Good match, would recommend."
+STU0200,BUS0072,3,True,Great alignment on skills and goals.
+STU0201,BUS0199,5,True,Not enough overlap in interests.
+STU0201,BUS0060,3,True,"Scheduling was hard, but content was valuable."
+STU0202,BUS0052,5,True,Excellent guidance on career direction.
+STU0202,BUS0081,3,True,Not enough overlap in interests.
+STU0203,BUS0028,4,True,Not enough overlap in interests.
+STU0203,BUS0179,4,True,Excellent guidance on career direction.
+STU0204,BUS0069,2,False,Great alignment on skills and goals.
+STU0204,BUS0116,3,True,Mentor's experience was very relevant.
+STU0205,BUS0111,5,True,"Good match, would recommend."
+STU0205,BUS0120,4,True,"Scheduling was hard, but content was valuable."
+STU0206,BUS0198,4,True,Great alignment on skills and goals.
+STU0206,BUS0007,5,True,Somewhat helpful but not a strong fit.
+STU0206,BUS0073,4,True,Great alignment on skills and goals.
+STU0207,BUS0056,3,True,"Scheduling was hard, but content was valuable."
+STU0207,BUS0053,4,True,Excellent guidance on career direction.
+STU0208,BUS0117,1,False,Excellent guidance on career direction.
+STU0208,BUS0142,2,False,Mentor's experience was very relevant.
+STU0210,BUS0098,4,True,Somewhat helpful but not a strong fit.
+STU0210,BUS0101,1,False,"Scheduling was hard, but content was valuable."
+STU0211,BUS0188,1,False,Excellent guidance on career direction.
+STU0211,BUS0001,5,True,Great alignment on skills and goals.
+STU0211,BUS0042,2,False,Mentor's experience was very relevant.
+STU0212,BUS0097,1,False,Excellent guidance on career direction.
+STU0212,BUS0024,5,True,Not enough overlap in interests.
+STU0213,BUS0143,4,True,Not enough overlap in interests.
+STU0213,BUS0101,5,True,Not enough overlap in interests.
+STU0213,BUS0107,5,True,Not enough overlap in interests.
+STU0214,BUS0009,5,True,"Scheduling was hard, but content was valuable."
+STU0214,BUS0144,4,True,"Good match, would recommend."
+STU0215,BUS0167,5,True,Somewhat helpful but not a strong fit.
+STU0215,BUS0120,5,True,Excellent guidance on career direction.
+STU0215,BUS0126,5,True,Mentor's experience was very relevant.
+STU0216,BUS0016,2,False,"Scheduling was hard, but content was valuable."
+STU0216,BUS0132,5,True,Mentor's experience was very relevant.
+STU0216,BUS0194,5,True,Excellent guidance on career direction.
+STU0217,BUS0074,5,True,Mentor's experience was very relevant.
+STU0218,BUS0153,2,False,Excellent guidance on career direction.
+STU0218,BUS0083,5,True,"Scheduling was hard, but content was valuable."
+STU0218,BUS0093,4,True,"Good match, would recommend."
+STU0219,BUS0098,5,True,"Scheduling was hard, but content was valuable."
+STU0219,BUS0135,4,True,Excellent guidance on career direction.
+STU0219,BUS0097,4,True,Somewhat helpful but not a strong fit.
+STU0220,BUS0145,3,True,Somewhat helpful but not a strong fit.
+STU0220,BUS0114,5,True,"Scheduling was hard, but content was valuable."
+STU0221,BUS0194,5,True,Great alignment on skills and goals.
+STU0222,BUS0020,5,True,"Good match, would recommend."
+STU0222,BUS0004,4,True,Not enough overlap in interests.
+STU0223,BUS0176,4,True,Excellent guidance on career direction.
+STU0223,BUS0150,4,True,"Good match, would recommend."
+STU0224,BUS0085,4,True,Great alignment on skills and goals.
+STU0224,BUS0066,2,False,Great alignment on skills and goals.
+STU0224,BUS0118,4,True,"Scheduling was hard, but content was valuable."
+STU0225,BUS0124,5,True,Excellent guidance on career direction.
+STU0226,BUS0076,3,True,Excellent guidance on career direction.
+STU0227,BUS0005,5,True,Not enough overlap in interests.
+STU0227,BUS0012,4,True,Great alignment on skills and goals.
+STU0228,BUS0128,5,True,Mentor's experience was very relevant.
+STU0228,BUS0114,4,True,Somewhat helpful but not a strong fit.
+STU0228,BUS0041,4,True,"Scheduling was hard, but content was valuable."
+STU0229,BUS0140,3,True,Great alignment on skills and goals.
+STU0229,BUS0160,2,False,Great alignment on skills and goals.
+STU0231,BUS0172,4,True,Excellent guidance on career direction.
+STU0231,BUS0081,5,True,Mentor's experience was very relevant.
+STU0231,BUS0009,5,True,Excellent guidance on career direction.
+STU0232,BUS0138,5,True,"Scheduling was hard, but content was valuable."
+STU0232,BUS0047,5,True,Somewhat helpful but not a strong fit.
+STU0233,BUS0125,3,True,"Good match, would recommend."
+STU0234,BUS0006,4,True,Mentor's experience was very relevant.
+STU0234,BUS0196,5,True,Excellent guidance on career direction.
+STU0234,BUS0134,3,True,Excellent guidance on career direction.
+STU0235,BUS0132,4,True,Not enough overlap in interests.
+STU0235,BUS0007,4,True,"Good match, would recommend."
+STU0236,BUS0098,5,True,Somewhat helpful but not a strong fit.
+STU0236,BUS0019,4,True,Somewhat helpful but not a strong fit.
+STU0236,BUS0154,4,True,Mentor's experience was very relevant.
+STU0237,BUS0121,4,True,Somewhat helpful but not a strong fit.
+STU0237,BUS0054,4,True,Excellent guidance on career direction.
+STU0237,BUS0039,2,False,Not enough overlap in interests.
+STU0238,BUS0045,4,True,Excellent guidance on career direction.
+STU0239,BUS0178,5,True,Mentor's experience was very relevant.
+STU0240,BUS0071,5,True,Great alignment on skills and goals.
+STU0241,BUS0124,4,True,Not enough overlap in interests.
+STU0241,BUS0181,5,True,Excellent guidance on career direction.
+STU0242,BUS0137,5,True,Somewhat helpful but not a strong fit.
+STU0243,BUS0131,5,True,"Scheduling was hard, but content was valuable."
+STU0243,BUS0102,5,True,Not enough overlap in interests.
+STU0243,BUS0023,4,True,Not enough overlap in interests.
+STU0244,BUS0031,4,True,"Scheduling was hard, but content was valuable."
+STU0244,BUS0099,5,True,Mentor's experience was very relevant.
+STU0245,BUS0164,1,False,"Scheduling was hard, but content was valuable."
+STU0246,BUS0115,5,True,Excellent guidance on career direction.
+STU0247,BUS0059,4,True,"Scheduling was hard, but content was valuable."
+STU0247,BUS0109,5,True,"Scheduling was hard, but content was valuable."
+STU0248,BUS0163,1,False,"Good match, would recommend."
+STU0248,BUS0182,3,True,"Scheduling was hard, but content was valuable."
+STU0248,BUS0111,2,False,Somewhat helpful but not a strong fit.
+STU0249,BUS0101,4,True,Somewhat helpful but not a strong fit.
+STU0249,BUS0004,5,True,"Good match, would recommend."
+STU0250,BUS0069,4,True,Somewhat helpful but not a strong fit.
+STU0250,BUS0080,5,True,Excellent guidance on career direction.
+STU0250,BUS0059,2,False,Somewhat helpful but not a strong fit.
+STU0251,BUS0063,4,True,"Good match, would recommend."
+STU0252,BUS0085,4,True,Great alignment on skills and goals.
+STU0252,BUS0089,5,True,"Good match, would recommend."
+STU0253,BUS0016,5,True,Somewhat helpful but not a strong fit.
+STU0253,BUS0177,4,True,Great alignment on skills and goals.
+STU0254,BUS0158,4,True,Great alignment on skills and goals.
+STU0254,BUS0130,5,True,Excellent guidance on career direction.
+STU0255,BUS0116,5,True,Mentor's experience was very relevant.
+STU0255,BUS0080,4,True,"Good match, would recommend."
+STU0255,BUS0069,5,True,"Scheduling was hard, but content was valuable."
+STU0256,BUS0085,5,True,Great alignment on skills and goals.
+STU0256,BUS0118,3,True,"Scheduling was hard, but content was valuable."
+STU0256,BUS0160,1,False,Not enough overlap in interests.
+STU0257,BUS0007,4,True,Somewhat helpful but not a strong fit.
+STU0257,BUS0185,5,True,"Scheduling was hard, but content was valuable."
+STU0258,BUS0076,2,False,Not enough overlap in interests.
+STU0258,BUS0058,4,True,Mentor's experience was very relevant.
+STU0259,BUS0116,3,True,"Good match, would recommend."
+STU0259,BUS0075,4,True,Excellent guidance on career direction.
+STU0259,BUS0013,5,True,Mentor's experience was very relevant.
+STU0260,BUS0187,4,True,Somewhat helpful but not a strong fit.
+STU0261,BUS0153,3,True,"Good match, would recommend."
+STU0262,BUS0112,4,True,Excellent guidance on career direction.
+STU0262,BUS0043,5,True,Great alignment on skills and goals.
+STU0263,BUS0064,3,True,Excellent guidance on career direction.
+STU0263,BUS0134,1,False,Somewhat helpful but not a strong fit.
+STU0264,BUS0079,5,True,Great alignment on skills and goals.
+STU0265,BUS0173,4,True,Somewhat helpful but not a strong fit.
+STU0265,BUS0107,4,True,Not enough overlap in interests.
+STU0266,BUS0123,3,True,Excellent guidance on career direction.
+STU0266,BUS0171,4,True,Mentor's experience was very relevant.
+STU0267,BUS0119,3,True,Not enough overlap in interests.
+STU0267,BUS0095,3,True,Excellent guidance on career direction.
+STU0268,BUS0147,4,True,Great alignment on skills and goals.
+STU0269,BUS0112,5,True,Great alignment on skills and goals.
+STU0269,BUS0113,4,True,Mentor's experience was very relevant.
+STU0269,BUS0127,5,True,Somewhat helpful but not a strong fit.
+STU0270,BUS0068,2,False,"Scheduling was hard, but content was valuable."
+STU0270,BUS0128,4,True,"Good match, would recommend."
+STU0270,BUS0130,1,False,"Scheduling was hard, but content was valuable."
+STU0271,BUS0075,5,True,"Scheduling was hard, but content was valuable."
+STU0271,BUS0145,4,True,Excellent guidance on career direction.
+STU0271,BUS0069,4,True,Great alignment on skills and goals.
+STU0272,BUS0172,5,True,Excellent guidance on career direction.
+STU0272,BUS0121,5,True,Mentor's experience was very relevant.
+STU0272,BUS0074,5,True,Mentor's experience was very relevant.
+STU0273,BUS0008,4,True,Great alignment on skills and goals.
+STU0273,BUS0184,4,True,"Scheduling was hard, but content was valuable."
+STU0274,BUS0131,5,True,Mentor's experience was very relevant.
+STU0274,BUS0141,5,True,Great alignment on skills and goals.
+STU0275,BUS0113,5,True,"Good match, would recommend."
+STU0276,BUS0036,5,True,"Scheduling was hard, but content was valuable."
+STU0276,BUS0096,5,True,Somewhat helpful but not a strong fit.
+STU0276,BUS0182,5,True,Somewhat helpful but not a strong fit.
+STU0277,BUS0139,5,True,Mentor's experience was very relevant.
+STU0277,BUS0113,4,True,Somewhat helpful but not a strong fit.
+STU0278,BUS0081,2,False,Great alignment on skills and goals.
+STU0278,BUS0086,5,True,"Scheduling was hard, but content was valuable."
+STU0278,BUS0124,5,True,"Good match, would recommend."
+STU0279,BUS0197,4,True,Excellent guidance on career direction.
+STU0280,BUS0173,4,True,"Good match, would recommend."
+STU0281,BUS0174,4,True,"Scheduling was hard, but content was valuable."
+STU0281,BUS0158,5,True,Excellent guidance on career direction.
+STU0282,BUS0116,5,True,Not enough overlap in interests.
+STU0282,BUS0191,4,True,Excellent guidance on career direction.
+STU0282,BUS0013,4,True,Not enough overlap in interests.
+STU0283,BUS0192,2,False,Excellent guidance on career direction.
+STU0283,BUS0111,4,True,"Good match, would recommend."
+STU0283,BUS0147,4,True,"Good match, would recommend."
+STU0284,BUS0136,4,True,"Good match, would recommend."
+STU0284,BUS0067,4,True,Excellent guidance on career direction.
+STU0285,BUS0095,4,True,Somewhat helpful but not a strong fit.
+STU0285,BUS0119,3,True,Not enough overlap in interests.
+STU0286,BUS0101,5,True,"Good match, would recommend."
+STU0286,BUS0173,5,True,Excellent guidance on career direction.
+STU0286,BUS0022,4,True,"Scheduling was hard, but content was valuable."
+STU0287,BUS0045,4,True,Great alignment on skills and goals.
+STU0288,BUS0061,4,True,"Scheduling was hard, but content was valuable."
+STU0288,BUS0040,4,True,Excellent guidance on career direction.
+STU0289,BUS0056,4,True,Excellent guidance on career direction.
+STU0289,BUS0053,5,True,Not enough overlap in interests.
+STU0289,BUS0185,4,True,Great alignment on skills and goals.
+STU0290,BUS0145,5,True,"Scheduling was hard, but content was valuable."
+STU0290,BUS0116,4,True,Great alignment on skills and goals.
+STU0290,BUS0114,5,True,Somewhat helpful but not a strong fit.
+STU0291,BUS0034,5,True,Not enough overlap in interests.
+STU0291,BUS0153,4,True,"Good match, would recommend."
+STU0292,BUS0103,4,True,Somewhat helpful but not a strong fit.
+STU0292,BUS0134,4,True,Somewhat helpful but not a strong fit.
+STU0292,BUS0177,3,True,Great alignment on skills and goals.
+STU0293,BUS0166,5,True,Great alignment on skills and goals.
+STU0293,BUS0012,2,False,Great alignment on skills and goals.
+STU0293,BUS0168,4,True,"Scheduling was hard, but content was valuable."
+STU0294,BUS0134,5,True,Somewhat helpful but not a strong fit.
+STU0294,BUS0185,5,True,Not enough overlap in interests.
+STU0294,BUS0064,3,True,Not enough overlap in interests.
+STU0295,BUS0129,4,True,Mentor's experience was very relevant.
+STU0295,BUS0192,5,True,"Good match, would recommend."
+STU0296,BUS0111,4,True,Great alignment on skills and goals.
+STU0296,BUS0092,4,True,Mentor's experience was very relevant.
+STU0297,BUS0056,5,True,Somewhat helpful but not a strong fit.
+STU0297,BUS0185,5,True,Mentor's experience was very relevant.
+STU0297,BUS0122,5,True,"Good match, would recommend."
+STU0298,BUS0146,4,True,Somewhat helpful but not a strong fit.
+STU0298,BUS0200,4,True,Mentor's experience was very relevant.
+STU0299,BUS0102,1,False,Excellent guidance on career direction.
+STU0300,BUS0159,5,True,Not enough overlap in interests.
+STU0300,BUS0184,4,True,"Scheduling was hard, but content was valuable."
+STU0301,BUS0045,5,True,Somewhat helpful but not a strong fit.
+STU0301,BUS0095,5,True,"Scheduling was hard, but content was valuable."
+STU0301,BUS0131,4,True,Not enough overlap in interests.
+STU0302,BUS0126,5,True,Somewhat helpful but not a strong fit.
+STU0303,BUS0159,4,True,Somewhat helpful but not a strong fit.
+STU0303,BUS0003,4,True,Somewhat helpful but not a strong fit.
+STU0303,BUS0153,4,True,Excellent guidance on career direction.
+STU0304,BUS0077,5,True,Excellent guidance on career direction.
+STU0304,BUS0050,5,True,Mentor's experience was very relevant.
+STU0304,BUS0140,4,True,"Good match, would recommend."
+STU0305,BUS0161,4,True,Mentor's experience was very relevant.
+STU0305,BUS0142,5,True,Great alignment on skills and goals.
+STU0305,BUS0011,5,True,Excellent guidance on career direction.
+STU0306,BUS0156,4,True,"Scheduling was hard, but content was valuable."
+STU0306,BUS0151,5,True,"Good match, would recommend."
+STU0306,BUS0182,4,True,Excellent guidance on career direction.
+STU0307,BUS0104,4,True,Somewhat helpful but not a strong fit.
+STU0307,BUS0004,4,True,"Good match, would recommend."
+STU0308,BUS0174,3,True,Mentor's experience was very relevant.
+STU0308,BUS0069,5,True,"Scheduling was hard, but content was valuable."
+STU0309,BUS0157,2,False,Somewhat helpful but not a strong fit.
+STU0309,BUS0135,5,True,Great alignment on skills and goals.
+STU0310,BUS0177,5,True,Not enough overlap in interests.
+STU0310,BUS0006,2,False,"Good match, would recommend."
+STU0310,BUS0179,4,True,"Scheduling was hard, but content was valuable."
+STU0311,BUS0145,5,True,Mentor's experience was very relevant.
+STU0311,BUS0137,4,True,Not enough overlap in interests.
+STU0311,BUS0075,5,True,Not enough overlap in interests.
+STU0312,BUS0069,5,True,"Scheduling was hard, but content was valuable."
+STU0313,BUS0039,4,True,Somewhat helpful but not a strong fit.
+STU0314,BUS0189,5,True,Mentor's experience was very relevant.
+STU0314,BUS0034,2,False,"Scheduling was hard, but content was valuable."
+STU0314,BUS0055,5,True,Mentor's experience was very relevant.
+STU0315,BUS0029,5,True,Not enough overlap in interests.
+STU0316,BUS0003,5,True,Mentor's experience was very relevant.
+STU0316,BUS0152,3,True,"Good match, would recommend."
+STU0317,BUS0124,1,False,Not enough overlap in interests.
+STU0317,BUS0172,3,True,Somewhat helpful but not a strong fit.
+STU0318,BUS0156,3,True,"Scheduling was hard, but content was valuable."
+STU0318,BUS0127,4,True,"Scheduling was hard, but content was valuable."
+STU0318,BUS0108,4,True,Mentor's experience was very relevant.
+STU0319,BUS0137,5,True,Great alignment on skills and goals.
+STU0320,BUS0171,4,True,Great alignment on skills and goals.
+STU0320,BUS0033,4,True,Somewhat helpful but not a strong fit.
+STU0320,BUS0164,4,True,Not enough overlap in interests.
+STU0321,BUS0062,5,True,Not enough overlap in interests.
+STU0322,BUS0077,5,True,Excellent guidance on career direction.
+STU0322,BUS0169,4,True,Somewhat helpful but not a strong fit.
+STU0323,BUS0036,5,True,Mentor's experience was very relevant.
+STU0323,BUS0182,5,True,"Good match, would recommend."
+STU0324,BUS0116,5,True,Somewhat helpful but not a strong fit.
+STU0324,BUS0137,4,True,"Good match, would recommend."
+STU0325,BUS0135,5,True,Mentor's experience was very relevant.
+STU0325,BUS0101,5,True,Mentor's experience was very relevant.
+STU0325,BUS0020,5,True,"Scheduling was hard, but content was valuable."
+STU0326,BUS0073,4,True,Mentor's experience was very relevant.
+STU0326,BUS0040,5,True,Somewhat helpful but not a strong fit.
+STU0327,BUS0165,4,True,Excellent guidance on career direction.
+STU0327,BUS0175,5,True,Somewhat helpful but not a strong fit.
+STU0327,BUS0140,5,True,Mentor's experience was very relevant.
+STU0329,BUS0009,2,False,Somewhat helpful but not a strong fit.
+STU0330,BUS0169,4,True,"Scheduling was hard, but content was valuable."
+STU0330,BUS0023,4,True,"Scheduling was hard, but content was valuable."
+STU0331,BUS0115,4,True,"Good match, would recommend."
+STU0332,BUS0070,5,True,Mentor's experience was very relevant.
+STU0332,BUS0189,2,False,Not enough overlap in interests.
+STU0333,BUS0196,4,True,Great alignment on skills and goals.
+STU0333,BUS0194,4,True,Not enough overlap in interests.
+STU0333,BUS0040,5,True,"Good match, would recommend."
+STU0334,BUS0025,5,True,Not enough overlap in interests.
+STU0334,BUS0029,4,True,Somewhat helpful but not a strong fit.
+STU0334,BUS0047,4,True,Excellent guidance on career direction.
+STU0335,BUS0177,2,False,Mentor's experience was very relevant.
+STU0336,BUS0167,5,True,Somewhat helpful but not a strong fit.
+STU0337,BUS0035,3,True,"Scheduling was hard, but content was valuable."
+STU0337,BUS0144,4,True,Somewhat helpful but not a strong fit.
+STU0338,BUS0075,2,False,Great alignment on skills and goals.
+STU0338,BUS0063,5,True,Somewhat helpful but not a strong fit.
+STU0339,BUS0128,5,True,Mentor's experience was very relevant.
+STU0340,BUS0189,2,False,"Scheduling was hard, but content was valuable."
+STU0340,BUS0088,5,True,"Scheduling was hard, but content was valuable."
+STU0340,BUS0038,4,True,Mentor's experience was very relevant.
+STU0341,BUS0086,2,False,Somewhat helpful but not a strong fit.
+STU0342,BUS0189,5,True,"Good match, would recommend."
+STU0343,BUS0124,5,True,"Scheduling was hard, but content was valuable."
+STU0343,BUS0074,4,True,Mentor's experience was very relevant.
+STU0344,BUS0151,5,True,Not enough overlap in interests.
+STU0344,BUS0110,4,True,Not enough overlap in interests.
+STU0345,BUS0032,5,True,Somewhat helpful but not a strong fit.
+STU0345,BUS0192,4,True,Not enough overlap in interests.
+STU0345,BUS0072,5,True,Somewhat helpful but not a strong fit.
+STU0346,BUS0050,5,True,"Scheduling was hard, but content was valuable."
+STU0346,BUS0089,3,True,Mentor's experience was very relevant.
+STU0347,BUS0038,5,True,Somewhat helpful but not a strong fit.
+STU0348,BUS0106,4,True,Somewhat helpful but not a strong fit.
+STU0349,BUS0048,4,True,Great alignment on skills and goals.
+STU0349,BUS0189,5,True,Excellent guidance on career direction.
+STU0349,BUS0030,4,True,Great alignment on skills and goals.
+STU0350,BUS0132,5,True,Mentor's experience was very relevant.
+STU0350,BUS0198,5,True,"Good match, would recommend."
+STU0351,BUS0160,4,True,Somewhat helpful but not a strong fit.
+STU0351,BUS0050,4,True,Somewhat helpful but not a strong fit.
+STU0352,BUS0189,5,True,Mentor's experience was very relevant.
+STU0352,BUS0029,5,True,Not enough overlap in interests.
+STU0353,BUS0068,3,True,Great alignment on skills and goals.
+STU0353,BUS0174,5,True,Mentor's experience was very relevant.
+STU0353,BUS0087,4,True,Great alignment on skills and goals.
+STU0354,BUS0057,3,True,Great alignment on skills and goals.
+STU0355,BUS0014,3,True,Mentor's experience was very relevant.
+STU0355,BUS0066,5,True,Excellent guidance on career direction.
+STU0355,BUS0131,5,True,"Good match, would recommend."
+STU0356,BUS0084,3,True,Mentor's experience was very relevant.
+STU0356,BUS0150,2,False,Not enough overlap in interests.
+STU0357,BUS0003,2,False,Great alignment on skills and goals.
+STU0357,BUS0070,3,True,Somewhat helpful but not a strong fit.
+STU0358,BUS0142,4,True,"Good match, would recommend."
+STU0358,BUS0117,4,True,"Scheduling was hard, but content was valuable."
+STU0359,BUS0136,3,True,Somewhat helpful but not a strong fit.
+STU0359,BUS0161,4,True,Excellent guidance on career direction.
+STU0360,BUS0099,4,True,Mentor's experience was very relevant.
+STU0360,BUS0171,2,False,"Scheduling was hard, but content was valuable."
+STU0360,BUS0035,3,True,Somewhat helpful but not a strong fit.
+STU0361,BUS0118,4,True,"Good match, would recommend."
+STU0361,BUS0090,5,True,Somewhat helpful but not a strong fit.
+STU0362,BUS0106,5,True,"Good match, would recommend."
+STU0362,BUS0117,4,True,Somewhat helpful but not a strong fit.
+STU0363,BUS0135,3,True,Great alignment on skills and goals.
+STU0363,BUS0027,5,True,Mentor's experience was very relevant.
+STU0363,BUS0143,4,True,Mentor's experience was very relevant.
+STU0364,BUS0069,4,True,"Good match, would recommend."
+STU0364,BUS0191,5,True,Somewhat helpful but not a strong fit.
+STU0365,BUS0095,5,True,Excellent guidance on career direction.
+STU0365,BUS0160,5,True,Excellent guidance on career direction.
+STU0366,BUS0059,4,True,Great alignment on skills and goals.
+STU0366,BUS0109,4,True,"Good match, would recommend."
+STU0366,BUS0079,2,False,"Scheduling was hard, but content was valuable."
+STU0367,BUS0061,5,True,Somewhat helpful but not a strong fit.
+STU0367,BUS0064,4,True,Excellent guidance on career direction.
+STU0368,BUS0058,5,True,Excellent guidance on career direction.
+STU0369,BUS0141,4,True,"Scheduling was hard, but content was valuable."
+STU0369,BUS0066,5,True,Great alignment on skills and goals.
+STU0370,BUS0129,4,True,Great alignment on skills and goals.
+STU0370,BUS0127,5,True,Mentor's experience was very relevant.
+STU0370,BUS0151,3,True,Not enough overlap in interests.
+STU0371,BUS0002,5,True,Mentor's experience was very relevant.
+STU0371,BUS0060,5,True,Excellent guidance on career direction.
+STU0372,BUS0106,4,True,Not enough overlap in interests.
+STU0372,BUS0168,1,False,Somewhat helpful but not a strong fit.
+STU0373,BUS0063,3,True,Excellent guidance on career direction.
+STU0373,BUS0109,5,True,Not enough overlap in interests.
+STU0374,BUS0118,4,True,Not enough overlap in interests.
+STU0374,BUS0085,5,True,Somewhat helpful but not a strong fit.
+STU0375,BUS0036,5,True,Not enough overlap in interests.
+STU0376,BUS0190,4,True,"Scheduling was hard, but content was valuable."
+STU0376,BUS0023,4,True,Great alignment on skills and goals.
+STU0376,BUS0102,5,True,"Scheduling was hard, but content was valuable."
+STU0377,BUS0157,5,True,Somewhat helpful but not a strong fit.
+STU0378,BUS0038,4,True,"Good match, would recommend."
+STU0378,BUS0193,4,True,Excellent guidance on career direction.
+STU0379,BUS0174,5,True,Somewhat helpful but not a strong fit.
+STU0380,BUS0165,4,True,Great alignment on skills and goals.
+STU0380,BUS0102,5,True,Mentor's experience was very relevant.
+STU0380,BUS0062,4,True,Great alignment on skills and goals.
+STU0381,BUS0153,5,True,Not enough overlap in interests.
+STU0382,BUS0146,5,True,Excellent guidance on career direction.
+STU0382,BUS0011,4,True,Not enough overlap in interests.
+STU0383,BUS0169,4,True,Not enough overlap in interests.
+STU0383,BUS0066,5,True,"Good match, would recommend."
+STU0384,BUS0143,5,True,Mentor's experience was very relevant.
+STU0385,BUS0087,4,True,Excellent guidance on career direction.
+STU0385,BUS0041,4,True,Mentor's experience was very relevant.
+STU0386,BUS0079,3,True,Excellent guidance on career direction.
+STU0386,BUS0158,4,True,"Good match, would recommend."
+STU0387,BUS0198,5,True,Mentor's experience was very relevant.
+STU0387,BUS0037,5,True,"Good match, would recommend."
+STU0388,BUS0119,4,True,Not enough overlap in interests.
+STU0388,BUS0190,2,False,Mentor's experience was very relevant.
+STU0389,BUS0159,4,True,"Scheduling was hard, but content was valuable."
+STU0390,BUS0129,3,True,"Scheduling was hard, but content was valuable."
+STU0390,BUS0043,3,True,"Scheduling was hard, but content was valuable."
+STU0391,BUS0026,4,True,Somewhat helpful but not a strong fit.
+STU0391,BUS0105,4,True,Great alignment on skills and goals.
+STU0392,BUS0066,3,True,Mentor's experience was very relevant.
+STU0392,BUS0045,3,True,"Good match, would recommend."
+STU0393,BUS0096,5,True,"Scheduling was hard, but content was valuable."
+STU0393,BUS0156,2,False,Mentor's experience was very relevant.
+STU0394,BUS0088,4,True,Excellent guidance on career direction.
+STU0394,BUS0048,4,True,"Scheduling was hard, but content was valuable."
+STU0394,BUS0152,1,False,"Scheduling was hard, but content was valuable."
+STU0395,BUS0013,5,True,Great alignment on skills and goals.
+STU0396,BUS0022,3,True,Not enough overlap in interests.
+STU0396,BUS0107,5,True,Excellent guidance on career direction.
+STU0396,BUS0049,5,True,Excellent guidance on career direction.
+STU0397,BUS0162,5,True,"Scheduling was hard, but content was valuable."
+STU0397,BUS0171,5,True,Somewhat helpful but not a strong fit.
+STU0397,BUS0164,4,True,Great alignment on skills and goals.
+STU0398,BUS0128,3,True,Not enough overlap in interests.
+STU0398,BUS0013,5,True,"Good match, would recommend."
+STU0398,BUS0080,4,True,"Scheduling was hard, but content was valuable."
+STU0399,BUS0123,4,True,Somewhat helpful but not a strong fit.
+STU0399,BUS0164,5,True,Not enough overlap in interests.
+STU0399,BUS0074,5,True,Not enough overlap in interests.
+STU0400,BUS0130,4,True,Not enough overlap in interests.
+STU0400,BUS0109,5,True,Great alignment on skills and goals.
+STU0401,BUS0136,4,True,Not enough overlap in interests.
+STU0402,BUS0171,5,True,Great alignment on skills and goals.
+STU0402,BUS0074,5,True,Excellent guidance on career direction.
+STU0403,BUS0138,4,True,Mentor's experience was very relevant.
+STU0403,BUS0038,5,True,Great alignment on skills and goals.
+STU0404,BUS0103,4,True,Excellent guidance on career direction.
+STU0404,BUS0132,1,False,"Good match, would recommend."
+STU0404,BUS0196,5,True,"Scheduling was hard, but content was valuable."
+STU0405,BUS0012,4,True,Not enough overlap in interests.
+STU0405,BUS0042,3,True,"Good match, would recommend."
+STU0406,BUS0001,3,True,Not enough overlap in interests.
+STU0406,BUS0091,5,True,Mentor's experience was very relevant.
+STU0407,BUS0139,4,True,"Scheduling was hard, but content was valuable."
+STU0407,BUS0129,4,True,"Scheduling was hard, but content was valuable."
+STU0407,BUS0092,5,True,Not enough overlap in interests.
+STU0408,BUS0059,5,True,Excellent guidance on career direction.
+STU0408,BUS0116,5,True,"Scheduling was hard, but content was valuable."
+STU0409,BUS0048,5,True,Great alignment on skills and goals.
+STU0409,BUS0025,4,True,Great alignment on skills and goals.
+STU0410,BUS0124,3,True,Not enough overlap in interests.
+STU0410,BUS0086,5,True,Great alignment on skills and goals.
+STU0410,BUS0171,4,True,Not enough overlap in interests.
+STU0411,BUS0172,3,True,Not enough overlap in interests.
+STU0411,BUS0039,4,True,Mentor's experience was very relevant.
+STU0412,BUS0049,5,True,"Scheduling was hard, but content was valuable."
+STU0412,BUS0022,5,True,Somewhat helpful but not a strong fit.
+STU0412,BUS0057,5,True,Mentor's experience was very relevant.
+STU0413,BUS0137,4,True,Somewhat helpful but not a strong fit.
+STU0414,BUS0087,4,True,"Good match, would recommend."
+STU0414,BUS0109,5,True,"Scheduling was hard, but content was valuable."
+STU0414,BUS0137,4,True,Great alignment on skills and goals.
+STU0415,BUS0144,5,True,Somewhat helpful but not a strong fit.
+STU0415,BUS0033,4,True,"Good match, would recommend."
+STU0415,BUS0172,5,True,Somewhat helpful but not a strong fit.
+STU0416,BUS0174,4,True,"Scheduling was hard, but content was valuable."
+STU0417,BUS0160,5,True,Great alignment on skills and goals.
+STU0418,BUS0091,3,True,"Good match, would recommend."
+STU0418,BUS0042,5,True,"Scheduling was hard, but content was valuable."
+STU0418,BUS0044,3,True,Excellent guidance on career direction.
+STU0419,BUS0101,5,True,Mentor's experience was very relevant.
+STU0420,BUS0069,3,True,Mentor's experience was very relevant.
+STU0420,BUS0109,3,True,Great alignment on skills and goals.
+STU0421,BUS0137,5,True,"Scheduling was hard, but content was valuable."
+STU0421,BUS0130,4,True,"Good match, would recommend."
+STU0421,BUS0116,3,True,Excellent guidance on career direction.
+STU0422,BUS0074,3,True,"Good match, would recommend."
+STU0422,BUS0054,4,True,Excellent guidance on career direction.
+STU0422,BUS0144,4,True,Excellent guidance on career direction.
+STU0423,BUS0081,5,True,Mentor's experience was very relevant.
+STU0423,BUS0099,3,True,Excellent guidance on career direction.
+STU0424,BUS0087,4,True,"Good match, would recommend."
+STU0424,BUS0109,4,True,Somewhat helpful but not a strong fit.
+STU0424,BUS0114,2,False,"Scheduling was hard, but content was valuable."
+STU0425,BUS0182,4,True,"Good match, would recommend."
+STU0425,BUS0112,3,True,"Good match, would recommend."
+STU0425,BUS0127,4,True,Somewhat helpful but not a strong fit.
+STU0426,BUS0116,5,True,Great alignment on skills and goals.
+STU0426,BUS0158,4,True,Excellent guidance on career direction.
+STU0427,BUS0120,4,True,"Scheduling was hard, but content was valuable."
+STU0427,BUS0192,4,True,Somewhat helpful but not a strong fit.
+STU0427,BUS0126,4,True,Somewhat helpful but not a strong fit.
+STU0428,BUS0192,4,True,Somewhat helpful but not a strong fit.
+STU0428,BUS0120,5,True,Not enough overlap in interests.
+STU0429,BUS0010,5,True,Great alignment on skills and goals.
+STU0429,BUS0123,4,True,"Good match, would recommend."
+STU0429,BUS0099,4,True,Excellent guidance on career direction.
+STU0430,BUS0141,4,True,Somewhat helpful but not a strong fit.
+STU0430,BUS0190,5,True,Great alignment on skills and goals.
+STU0430,BUS0050,4,True,"Scheduling was hard, but content was valuable."
+STU0431,BUS0127,5,True,Not enough overlap in interests.
+STU0431,BUS0110,5,True,Mentor's experience was very relevant.
+STU0432,BUS0004,5,True,Great alignment on skills and goals.
+STU0432,BUS0049,1,False,"Scheduling was hard, but content was valuable."
+STU0432,BUS0173,5,True,Not enough overlap in interests.
+STU0433,BUS0172,4,True,Mentor's experience was very relevant.
+STU0433,BUS0181,4,True,"Scheduling was hard, but content was valuable."
+STU0433,BUS0074,5,True,"Good match, would recommend."
+STU0434,BUS0089,5,True,Excellent guidance on career direction.
+STU0434,BUS0094,5,True,Great alignment on skills and goals.
+STU0435,BUS0004,5,True,Mentor's experience was very relevant.
+STU0435,BUS0097,5,True,"Good match, would recommend."
+STU0435,BUS0104,4,True,"Good match, would recommend."
+STU0436,BUS0179,4,True,Not enough overlap in interests.
+STU0436,BUS0134,2,False,Not enough overlap in interests.
+STU0437,BUS0034,5,True,Mentor's experience was very relevant.
+STU0437,BUS0153,4,True,Excellent guidance on career direction.
+STU0437,BUS0093,5,True,Not enough overlap in interests.
+STU0438,BUS0107,3,True,Excellent guidance on career direction.
+STU0438,BUS0058,4,True,Great alignment on skills and goals.
+STU0438,BUS0022,5,True,Somewhat helpful but not a strong fit.
+STU0439,BUS0031,4,True,Not enough overlap in interests.
+STU0440,BUS0134,5,True,Not enough overlap in interests.
+STU0440,BUS0198,5,True,"Scheduling was hard, but content was valuable."
+STU0440,BUS0007,5,True,"Scheduling was hard, but content was valuable."
+STU0441,BUS0172,4,True,"Good match, would recommend."
+STU0441,BUS0121,5,True,Excellent guidance on career direction.
+STU0442,BUS0136,5,True,"Scheduling was hard, but content was valuable."
+STU0442,BUS0067,4,True,Great alignment on skills and goals.
+STU0443,BUS0085,4,True,Not enough overlap in interests.
+STU0443,BUS0140,4,True,"Good match, would recommend."
+STU0444,BUS0019,3,True,Excellent guidance on career direction.
+STU0444,BUS0022,5,True,Great alignment on skills and goals.
+STU0445,BUS0010,3,True,"Scheduling was hard, but content was valuable."
+STU0445,BUS0171,5,True,Excellent guidance on career direction.
+STU0445,BUS0086,5,True,Mentor's experience was very relevant.
+STU0446,BUS0085,4,True,Excellent guidance on career direction.
+STU0446,BUS0119,5,True,Great alignment on skills and goals.
+STU0446,BUS0094,5,True,Mentor's experience was very relevant.
+STU0447,BUS0107,5,True,"Scheduling was hard, but content was valuable."
+STU0447,BUS0076,5,True,Mentor's experience was very relevant.
+STU0447,BUS0022,5,True,Mentor's experience was very relevant.
+STU0448,BUS0088,1,False,"Good match, would recommend."
+STU0448,BUS0029,3,True,"Scheduling was hard, but content was valuable."
+STU0449,BUS0020,5,True,Mentor's experience was very relevant.
+STU0449,BUS0097,4,True,Somewhat helpful but not a strong fit.
+STU0449,BUS0104,5,True,"Good match, would recommend."
+STU0451,BUS0076,5,True,Not enough overlap in interests.
+STU0452,BUS0083,5,True,Not enough overlap in interests.
+STU0453,BUS0067,4,True,Somewhat helpful but not a strong fit.
+STU0453,BUS0091,5,True,"Scheduling was hard, but content was valuable."
+STU0453,BUS0150,4,True,Not enough overlap in interests.
+STU0454,BUS0147,5,True,"Scheduling was hard, but content was valuable."
+STU0454,BUS0167,4,True,"Scheduling was hard, but content was valuable."
+STU0455,BUS0080,5,True,"Scheduling was hard, but content was valuable."
+STU0455,BUS0145,5,True,Mentor's experience was very relevant.
+STU0456,BUS0087,5,True,"Scheduling was hard, but content was valuable."
+STU0456,BUS0013,4,True,Excellent guidance on career direction.
+STU0456,BUS0068,5,True,Mentor's experience was very relevant.
+STU0457,BUS0017,3,True,Mentor's experience was very relevant.
+STU0457,BUS0193,2,False,"Scheduling was hard, but content was valuable."
+STU0458,BUS0109,5,True,Mentor's experience was very relevant.
+STU0458,BUS0114,3,True,Not enough overlap in interests.
+STU0458,BUS0128,4,True,"Good match, would recommend."
+STU0459,BUS0061,5,True,Great alignment on skills and goals.
+STU0459,BUS0056,5,True,Mentor's experience was very relevant.
+STU0459,BUS0134,5,True,Excellent guidance on career direction.
+STU0460,BUS0107,4,True,Not enough overlap in interests.
+STU0460,BUS0057,4,True,Excellent guidance on career direction.
+STU0460,BUS0183,5,True,"Good match, would recommend."
+STU0461,BUS0113,5,True,"Scheduling was hard, but content was valuable."
+STU0461,BUS0112,2,False,Great alignment on skills and goals.
+STU0462,BUS0181,5,True,Excellent guidance on career direction.
+STU0462,BUS0074,4,True,"Scheduling was hard, but content was valuable."
+STU0463,BUS0174,3,True,Excellent guidance on career direction.
+STU0463,BUS0013,5,True,Great alignment on skills and goals.
+STU0464,BUS0050,5,True,Excellent guidance on career direction.
+STU0464,BUS0045,5,True,Excellent guidance on career direction.
+STU0465,BUS0125,3,True,"Good match, would recommend."
+STU0465,BUS0117,5,True,"Scheduling was hard, but content was valuable."
+STU0466,BUS0088,5,True,"Good match, would recommend."
+STU0466,BUS0008,4,True,Mentor's experience was very relevant.
+STU0466,BUS0093,5,True,Somewhat helpful but not a strong fit.
+STU0467,BUS0019,4,True,"Scheduling was hard, but content was valuable."
+STU0467,BUS0143,3,True,"Scheduling was hard, but content was valuable."
+STU0467,BUS0098,5,True,Great alignment on skills and goals.
+STU0468,BUS0003,4,True,Not enough overlap in interests.
+STU0468,BUS0152,1,False,Not enough overlap in interests.
+STU0468,BUS0082,5,True,Mentor's experience was very relevant.
+STU0469,BUS0019,5,True,Great alignment on skills and goals.
+STU0469,BUS0143,4,True,Not enough overlap in interests.
+STU0469,BUS0097,4,True,Great alignment on skills and goals.
+STU0470,BUS0190,3,True,"Good match, would recommend."
+STU0470,BUS0119,5,True,"Good match, would recommend."
+STU0470,BUS0105,4,True,"Scheduling was hard, but content was valuable."
+STU0471,BUS0089,5,True,Excellent guidance on career direction.
+STU0471,BUS0131,5,True,Excellent guidance on career direction.
+STU0471,BUS0090,4,True,Mentor's experience was very relevant.
+STU0472,BUS0171,5,True,Not enough overlap in interests.
+STU0472,BUS0031,4,True,Great alignment on skills and goals.
+STU0474,BUS0154,3,True,Great alignment on skills and goals.
+STU0474,BUS0027,2,False,Great alignment on skills and goals.
+STU0475,BUS0011,4,True,Not enough overlap in interests.
+STU0476,BUS0173,5,True,"Scheduling was hard, but content was valuable."
+STU0476,BUS0049,4,True,Somewhat helpful but not a strong fit.
+STU0476,BUS0020,5,True,Not enough overlap in interests.
+STU0477,BUS0186,5,True,Mentor's experience was very relevant.
+STU0477,BUS0168,2,False,"Good match, would recommend."
+STU0477,BUS0125,5,True,Mentor's experience was very relevant.
+STU0478,BUS0058,5,True,"Good match, would recommend."
+STU0478,BUS0173,5,True,Excellent guidance on career direction.
+STU0479,BUS0029,3,True,Mentor's experience was very relevant.
+STU0480,BUS0031,5,True,"Scheduling was hard, but content was valuable."
+STU0480,BUS0039,4,True,"Good match, would recommend."
+STU0481,BUS0150,4,True,Great alignment on skills and goals.
+STU0482,BUS0133,5,True,Somewhat helpful but not a strong fit.
+STU0482,BUS0142,5,True,"Good match, would recommend."
+STU0483,BUS0182,4,True,Mentor's experience was very relevant.
+STU0484,BUS0013,4,True,Mentor's experience was very relevant.
+STU0484,BUS0115,5,True,Excellent guidance on career direction.
+STU0484,BUS0158,3,True,Somewhat helpful but not a strong fit.
+STU0485,BUS0081,5,True,"Scheduling was hard, but content was valuable."
+STU0485,BUS0009,5,True,"Scheduling was hard, but content was valuable."
+STU0485,BUS0164,5,True,Great alignment on skills and goals.
+STU0486,BUS0054,5,True,Not enough overlap in interests.
+STU0487,BUS0086,5,True,"Good match, would recommend."
+STU0487,BUS0123,5,True,Somewhat helpful but not a strong fit.
+STU0487,BUS0035,5,True,Excellent guidance on career direction.
+STU0488,BUS0047,2,False,Excellent guidance on career direction.
+STU0488,BUS0038,5,True,"Good match, would recommend."
+STU0488,BUS0152,5,True,Mentor's experience was very relevant.
+STU0489,BUS0138,4,True,Not enough overlap in interests.
+STU0490,BUS0127,5,True,Somewhat helpful but not a strong fit.
+STU0491,BUS0162,5,True,Somewhat helpful but not a strong fit.
+STU0491,BUS0099,5,True,"Scheduling was hard, but content was valuable."
+STU0492,BUS0189,2,False,Mentor's experience was very relevant.
+STU0492,BUS0152,3,True,Excellent guidance on career direction.
+STU0492,BUS0029,4,True,Somewhat helpful but not a strong fit.
+STU0493,BUS0075,5,True,Great alignment on skills and goals.
+STU0495,BUS0013,4,True,"Scheduling was hard, but content was valuable."
+STU0496,BUS0186,5,True,"Scheduling was hard, but content was valuable."
+STU0496,BUS0021,5,True,"Scheduling was hard, but content was valuable."
+STU0496,BUS0146,1,False,Mentor's experience was very relevant.
+STU0497,BUS0106,1,False,"Scheduling was hard, but content was valuable."
+STU0497,BUS0011,3,True,"Scheduling was hard, but content was valuable."
+STU0497,BUS0091,4,True,"Scheduling was hard, but content was valuable."
+STU0498,BUS0086,5,True,Mentor's experience was very relevant.
+STU0498,BUS0054,4,True,Excellent guidance on career direction.
+STU0499,BUS0049,4,True,Not enough overlap in interests.
+STU0499,BUS0183,5,True,Somewhat helpful but not a strong fit.
+STU0500,BUS0123,4,True,Not enough overlap in interests.

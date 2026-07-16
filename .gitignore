@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+embeddings.npz
+llm_explanation_cache.json
+.streamlit/secrets.toml
+.env

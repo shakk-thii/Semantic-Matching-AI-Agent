@@ -1,0 +1,1501 @@
+student_id,business_id,match_rank,match_reason
+STU0001,BUS0142,1,Shared domain: Finance / Investment
+STU0001,BUS0067,2,Shared domain: Finance / Investment
+STU0001,BUS0117,3,Shared domain: Finance / Investment
+STU0002,BUS0004,1,Shared domain: Marketing / Communications
+STU0002,BUS0135,2,Shared domain: Marketing / Communications
+STU0002,BUS0101,3,Shared domain: Marketing / Communications
+STU0003,BUS0094,1,Shared domain: Consulting / Strategy
+STU0003,BUS0175,2,Shared domain: Consulting / Strategy
+STU0003,BUS0119,3,Shared domain: Consulting / Strategy
+STU0004,BUS0022,1,Shared domain: Marketing / Communications
+STU0004,BUS0107,2,Shared domain: Marketing / Communications
+STU0004,BUS0057,3,Shared domain: Marketing / Communications
+STU0005,BUS0157,1,Shared domain: Marketing / Communications
+STU0005,BUS0004,2,Shared domain: Marketing / Communications
+STU0005,BUS0101,3,Shared domain: Marketing / Communications
+STU0006,BUS0057,1,Shared domain: Marketing / Communications
+STU0006,BUS0107,2,Shared domain: Marketing / Communications
+STU0006,BUS0098,3,Shared domain: Marketing / Communications
+STU0007,BUS0130,1,Shared domain: Media / Entertainment
+STU0007,BUS0158,2,Shared domain: Media / Entertainment
+STU0007,BUS0063,3,Shared domain: Media / Entertainment
+STU0008,BUS0183,1,Shared domain: Marketing / Communications
+STU0008,BUS0076,2,Shared domain: Marketing / Communications
+STU0008,BUS0097,3,Shared domain: Marketing / Communications
+STU0009,BUS0021,1,Shared domain: Finance / Investment
+STU0009,BUS0188,2,Shared domain: Finance / Investment
+STU0009,BUS0166,3,Shared domain: Finance / Investment
+STU0010,BUS0031,1,Shared domain: Technology / Software Engineering
+STU0010,BUS0033,2,Shared domain: Technology / Software Engineering
+STU0010,BUS0149,3,Shared domain: Technology / Software Engineering
+STU0011,BUS0069,1,Shared domain: Media / Entertainment
+STU0011,BUS0075,2,Shared domain: Media / Entertainment
+STU0011,BUS0130,3,Shared domain: Media / Entertainment
+STU0012,BUS0157,1,Shared domain: Marketing / Communications
+STU0012,BUS0057,2,Shared domain: Marketing / Communications
+STU0012,BUS0020,3,Shared domain: Marketing / Communications
+STU0013,BUS0068,1,Shared domain: Media / Entertainment
+STU0013,BUS0115,2,Shared domain: Media / Entertainment
+STU0013,BUS0130,3,Shared domain: Media / Entertainment
+STU0014,BUS0148,1,Shared domain: Technology / Software Engineering
+STU0014,BUS0162,2,Shared domain: Technology / Software Engineering
+STU0014,BUS0054,3,Shared domain: Technology / Software Engineering
+STU0015,BUS0010,1,Shared domain: Technology / Software Engineering
+STU0015,BUS0144,2,Shared domain: Technology / Software Engineering
+STU0015,BUS0074,3,Shared domain: Technology / Software Engineering
+STU0016,BUS0125,1,Shared domain: Finance / Investment
+STU0016,BUS0084,2,Shared domain: Finance / Investment
+STU0016,BUS0178,3,Shared domain: Finance / Investment
+STU0017,BUS0091,1,Shared domain: Finance / Investment
+STU0017,BUS0200,2,Shared domain: Finance / Investment
+STU0017,BUS0021,3,Shared domain: Finance / Investment
+STU0018,BUS0032,1,Shared domain: Design / Creative
+STU0018,BUS0112,2,Shared domain: Design / Creative
+STU0018,BUS0180,3,Shared domain: Design / Creative
+STU0019,BUS0131,1,Shared domain: Consulting / Strategy
+STU0019,BUS0140,2,Shared domain: Consulting / Strategy
+STU0019,BUS0100,3,Shared domain: Consulting / Strategy
+STU0020,BUS0015,1,Shared domain: Design / Creative
+STU0020,BUS0110,2,Shared domain: Design / Creative
+STU0020,BUS0180,3,Shared domain: Design / Creative
+STU0021,BUS0096,1,Shared domain: Design / Creative
+STU0021,BUS0192,2,Shared domain: Design / Creative
+STU0021,BUS0147,3,Shared domain: Design / Creative
+STU0022,BUS0135,1,Shared domain: Marketing / Communications
+STU0022,BUS0154,2,Shared domain: Marketing / Communications
+STU0022,BUS0183,3,Shared domain: Marketing / Communications
+STU0023,BUS0055,1,Shared domain: Education / Nonprofit
+STU0023,BUS0159,2,Shared domain: Education / Nonprofit
+STU0023,BUS0038,3,Shared domain: Education / Nonprofit
+STU0024,BUS0090,1,Shared domain: Consulting / Strategy
+STU0024,BUS0102,2,Shared domain: Consulting / Strategy
+STU0024,BUS0165,3,Shared domain: Consulting / Strategy
+STU0025,BUS0135,1,Shared domain: Marketing / Communications
+STU0025,BUS0143,2,Shared domain: Marketing / Communications
+STU0025,BUS0154,3,Shared domain: Marketing / Communications
+STU0026,BUS0059,1,Shared domain: Media / Entertainment
+STU0026,BUS0063,2,Shared domain: Media / Entertainment
+STU0026,BUS0116,3,Shared domain: Media / Entertainment
+STU0027,BUS0180,1,Shared domain: Design / Creative
+STU0027,BUS0036,2,Shared domain: Design / Creative
+STU0027,BUS0120,3,Shared domain: Design / Creative
+STU0028,BUS0021,1,Shared domain: Finance / Investment
+STU0028,BUS0186,2,Shared domain: Finance / Investment
+STU0028,BUS0001,3,Shared domain: Finance / Investment
+STU0029,BUS0030,1,Shared domain: Education / Nonprofit
+STU0029,BUS0093,2,Shared domain: Education / Nonprofit
+STU0029,BUS0193,3,Shared domain: Education / Nonprofit
+STU0030,BUS0012,1,Shared domain: Finance / Investment
+STU0030,BUS0042,2,Shared domain: Finance / Investment
+STU0030,BUS0044,3,Shared domain: Finance / Investment
+STU0031,BUS0124,1,Shared domain: Technology / Software Engineering
+STU0031,BUS0033,2,Shared domain: Technology / Software Engineering
+STU0031,BUS0010,3,Shared domain: Technology / Software Engineering
+STU0032,BUS0116,1,Shared domain: Media / Entertainment
+STU0032,BUS0130,2,Shared domain: Media / Entertainment
+STU0032,BUS0069,3,Shared domain: Media / Entertainment
+STU0033,BUS0166,1,Shared domain: Finance / Investment
+STU0033,BUS0188,2,Shared domain: Finance / Investment
+STU0033,BUS0142,3,Shared domain: Finance / Investment
+STU0034,BUS0199,1,Shared domain: Healthcare / Life Sciences
+STU0034,BUS0046,2,Shared domain: Healthcare / Life Sciences
+STU0034,BUS0187,3,Shared domain: Healthcare / Life Sciences
+STU0035,BUS0078,1,Shared domain: Education / Nonprofit
+STU0035,BUS0003,2,Shared domain: Education / Nonprofit
+STU0035,BUS0048,3,Shared domain: Education / Nonprofit
+STU0036,BUS0025,1,Shared domain: Education / Nonprofit
+STU0036,BUS0082,2,Shared domain: Education / Nonprofit
+STU0036,BUS0048,3,Shared domain: Education / Nonprofit
+STU0037,BUS0169,1,Shared domain: Consulting / Strategy
+STU0037,BUS0160,2,Shared domain: Consulting / Strategy
+STU0037,BUS0085,3,Shared domain: Consulting / Strategy
+STU0038,BUS0142,1,Shared domain: Finance / Investment
+STU0038,BUS0091,2,Shared domain: Finance / Investment
+STU0038,BUS0161,3,Shared domain: Finance / Investment
+STU0039,BUS0114,1,Shared domain: Media / Entertainment
+STU0039,BUS0158,2,Shared domain: Media / Entertainment
+STU0039,BUS0069,3,Shared domain: Media / Entertainment
+STU0040,BUS0021,1,Shared domain: Finance / Investment
+STU0040,BUS0084,2,Shared domain: Finance / Investment
+STU0040,BUS0142,3,Shared domain: Finance / Investment
+STU0041,BUS0061,1,Shared domain: Healthcare / Life Sciences
+STU0041,BUS0177,2,Shared domain: Healthcare / Life Sciences
+STU0041,BUS0073,3,Shared domain: Healthcare / Life Sciences
+STU0042,BUS0135,1,Shared domain: Marketing / Communications
+STU0042,BUS0107,2,Shared domain: Marketing / Communications
+STU0042,BUS0049,3,Shared domain: Marketing / Communications
+STU0043,BUS0109,1,Shared domain: Media / Entertainment
+STU0043,BUS0068,2,Shared domain: Media / Entertainment
+STU0043,BUS0069,3,Shared domain: Media / Entertainment
+STU0044,BUS0137,1,Shared domain: Media / Entertainment
+STU0044,BUS0130,2,Shared domain: Media / Entertainment
+STU0044,BUS0013,3,Shared domain: Media / Entertainment
+STU0045,BUS0086,1,Shared domain: Technology / Software Engineering
+STU0045,BUS0123,2,Shared domain: Technology / Software Engineering
+STU0045,BUS0039,3,Shared domain: Technology / Software Engineering
+STU0046,BUS0068,1,Shared domain: Media / Entertainment
+STU0046,BUS0130,2,Shared domain: Media / Entertainment
+STU0046,BUS0059,3,Shared domain: Media / Entertainment
+STU0047,BUS0001,1,Shared domain: Finance / Investment
+STU0047,BUS0084,2,Shared domain: Finance / Investment
+STU0047,BUS0176,3,Shared domain: Finance / Investment
+STU0048,BUS0060,1,Shared domain: Healthcare / Life Sciences
+STU0048,BUS0037,2,Shared domain: Healthcare / Life Sciences
+STU0048,BUS0197,3,Shared domain: Healthcare / Life Sciences
+STU0049,BUS0109,1,Shared domain: Media / Entertainment
+STU0049,BUS0063,2,Shared domain: Media / Entertainment
+STU0049,BUS0041,3,Shared domain: Media / Entertainment
+STU0050,BUS0140,1,Shared domain: Consulting / Strategy
+STU0050,BUS0102,2,Shared domain: Consulting / Strategy
+STU0050,BUS0062,3,Shared domain: Consulting / Strategy
+STU0051,BUS0017,1,Shared domain: Education / Nonprofit
+STU0051,BUS0070,2,Shared domain: Education / Nonprofit
+STU0051,BUS0159,3,Shared domain: Education / Nonprofit
+STU0052,BUS0149,1,Shared domain: Technology / Software Engineering
+STU0052,BUS0054,2,Shared domain: Technology / Software Engineering
+STU0052,BUS0099,3,Shared domain: Technology / Software Engineering
+STU0053,BUS0191,1,Shared domain: Media / Entertainment
+STU0053,BUS0013,2,Shared domain: Media / Entertainment
+STU0053,BUS0075,3,Shared domain: Media / Entertainment
+STU0054,BUS0080,1,Shared domain: Media / Entertainment
+STU0054,BUS0087,2,Shared domain: Media / Entertainment
+STU0054,BUS0116,3,Shared domain: Media / Entertainment
+STU0055,BUS0158,1,Shared domain: Media / Entertainment
+STU0055,BUS0087,2,Shared domain: Media / Entertainment
+STU0055,BUS0114,3,Shared domain: Media / Entertainment
+STU0056,BUS0156,1,Shared domain: Design / Creative
+STU0056,BUS0192,2,Shared domain: Design / Creative
+STU0056,BUS0120,3,Shared domain: Design / Creative
+STU0057,BUS0047,1,Shared domain: Education / Nonprofit
+STU0057,BUS0138,2,Shared domain: Education / Nonprofit
+STU0057,BUS0159,3,Shared domain: Education / Nonprofit
+STU0058,BUS0160,1,Shared domain: Consulting / Strategy
+STU0058,BUS0066,2,Shared domain: Consulting / Strategy
+STU0058,BUS0026,3,Shared domain: Consulting / Strategy
+STU0059,BUS0158,1,Shared domain: Media / Entertainment
+STU0059,BUS0068,2,Shared domain: Media / Entertainment
+STU0059,BUS0063,3,Shared domain: Media / Entertainment
+STU0060,BUS0178,1,Shared domain: Finance / Investment
+STU0060,BUS0044,2,Shared domain: Finance / Investment
+STU0060,BUS0071,3,Shared domain: Finance / Investment
+STU0061,BUS0027,1,Shared domain: Marketing / Communications
+STU0061,BUS0058,2,Shared domain: Marketing / Communications
+STU0061,BUS0157,3,Shared domain: Marketing / Communications
+STU0062,BUS0045,1,Shared domain: Consulting / Strategy
+STU0062,BUS0050,2,Shared domain: Consulting / Strategy
+STU0062,BUS0190,3,Shared domain: Consulting / Strategy
+STU0063,BUS0139,1,Shared domain: Design / Creative
+STU0063,BUS0151,2,Shared domain: Design / Creative
+STU0063,BUS0163,3,Shared domain: Design / Creative
+STU0064,BUS0175,1,Shared domain: Consulting / Strategy
+STU0064,BUS0095,2,Shared domain: Consulting / Strategy
+STU0064,BUS0090,3,Shared domain: Consulting / Strategy
+STU0065,BUS0152,1,Shared domain: Education / Nonprofit
+STU0065,BUS0153,2,Shared domain: Education / Nonprofit
+STU0065,BUS0047,3,Shared domain: Education / Nonprofit
+STU0066,BUS0190,1,Shared domain: Consulting / Strategy
+STU0066,BUS0169,2,Shared domain: Consulting / Strategy
+STU0066,BUS0140,3,Shared domain: Consulting / Strategy
+STU0067,BUS0160,1,Shared domain: Consulting / Strategy
+STU0067,BUS0105,2,Shared domain: Consulting / Strategy
+STU0067,BUS0066,3,Shared domain: Consulting / Strategy
+STU0068,BUS0053,1,Shared domain: Healthcare / Life Sciences
+STU0068,BUS0002,2,Shared domain: Healthcare / Life Sciences
+STU0068,BUS0064,3,Shared domain: Healthcare / Life Sciences
+STU0069,BUS0052,1,Shared domain: Technology / Software Engineering
+STU0069,BUS0031,2,Shared domain: Technology / Software Engineering
+STU0069,BUS0164,3,Shared domain: Technology / Software Engineering
+STU0070,BUS0068,1,Shared domain: Media / Entertainment
+STU0070,BUS0191,2,Shared domain: Media / Entertainment
+STU0070,BUS0069,3,Shared domain: Media / Entertainment
+STU0071,BUS0198,1,Shared domain: Healthcare / Life Sciences
+STU0071,BUS0002,2,Shared domain: Healthcare / Life Sciences
+STU0071,BUS0134,3,Shared domain: Healthcare / Life Sciences
+STU0072,BUS0017,1,Shared domain: Education / Nonprofit
+STU0072,BUS0008,2,Shared domain: Education / Nonprofit
+STU0072,BUS0029,3,Shared domain: Education / Nonprofit
+STU0073,BUS0142,1,Shared domain: Finance / Investment
+STU0073,BUS0188,2,Shared domain: Finance / Investment
+STU0073,BUS0133,3,Shared domain: Finance / Investment
+STU0074,BUS0104,1,Shared domain: Marketing / Communications
+STU0074,BUS0135,2,Shared domain: Marketing / Communications
+STU0074,BUS0097,3,Shared domain: Marketing / Communications
+STU0075,BUS0087,1,Shared domain: Media / Entertainment
+STU0075,BUS0137,2,Shared domain: Media / Entertainment
+STU0075,BUS0063,3,Shared domain: Media / Entertainment
+STU0076,BUS0038,1,Shared domain: Education / Nonprofit
+STU0076,BUS0138,2,Shared domain: Education / Nonprofit
+STU0076,BUS0078,3,Shared domain: Education / Nonprofit
+STU0077,BUS0121,1,Shared domain: Technology / Software Engineering
+STU0077,BUS0181,2,Shared domain: Technology / Software Engineering
+STU0077,BUS0144,3,Shared domain: Technology / Software Engineering
+STU0078,BUS0113,1,Shared domain: Design / Creative
+STU0078,BUS0111,2,Shared domain: Design / Creative
+STU0078,BUS0139,3,Shared domain: Design / Creative
+STU0079,BUS0090,1,Shared domain: Consulting / Strategy
+STU0079,BUS0118,2,Shared domain: Consulting / Strategy
+STU0079,BUS0026,3,Shared domain: Consulting / Strategy
+STU0080,BUS0140,1,Shared domain: Consulting / Strategy
+STU0080,BUS0195,2,Shared domain: Consulting / Strategy
+STU0080,BUS0066,3,Shared domain: Consulting / Strategy
+STU0081,BUS0027,1,Shared domain: Marketing / Communications
+STU0081,BUS0058,2,Shared domain: Marketing / Communications
+STU0081,BUS0024,3,Shared domain: Marketing / Communications
+STU0082,BUS0200,1,Shared domain: Finance / Investment
+STU0082,BUS0125,2,Shared domain: Finance / Investment
+STU0082,BUS0146,3,Shared domain: Finance / Investment
+STU0083,BUS0083,1,Shared domain: Education / Nonprofit
+STU0083,BUS0088,2,Shared domain: Education / Nonprofit
+STU0083,BUS0189,3,Shared domain: Education / Nonprofit
+STU0084,BUS0110,1,Shared domain: Design / Creative
+STU0084,BUS0167,2,Shared domain: Design / Creative
+STU0084,BUS0043,3,Shared domain: Design / Creative
+STU0085,BUS0149,1,Shared domain: Technology / Software Engineering
+STU0085,BUS0123,2,Shared domain: Technology / Software Engineering
+STU0085,BUS0171,3,Shared domain: Technology / Software Engineering
+STU0086,BUS0094,1,Shared domain: Consulting / Strategy
+STU0086,BUS0062,2,Shared domain: Consulting / Strategy
+STU0086,BUS0014,3,Shared domain: Consulting / Strategy
+STU0087,BUS0114,1,Shared domain: Media / Entertainment
+STU0087,BUS0128,2,Shared domain: Media / Entertainment
+STU0087,BUS0191,3,Shared domain: Media / Entertainment
+STU0088,BUS0123,1,Shared domain: Technology / Software Engineering
+STU0088,BUS0052,2,Shared domain: Technology / Software Engineering
+STU0088,BUS0164,3,Shared domain: Technology / Software Engineering
+STU0089,BUS0060,1,Shared domain: Healthcare / Life Sciences
+STU0089,BUS0179,2,Shared domain: Healthcare / Life Sciences
+STU0089,BUS0177,3,Shared domain: Healthcare / Life Sciences
+STU0090,BUS0092,1,Shared domain: Design / Creative
+STU0090,BUS0182,2,Shared domain: Design / Creative
+STU0090,BUS0015,3,Shared domain: Design / Creative
+STU0091,BUS0052,1,Shared domain: Technology / Software Engineering
+STU0091,BUS0124,2,Shared domain: Technology / Software Engineering
+STU0091,BUS0099,3,Shared domain: Technology / Software Engineering
+STU0092,BUS0093,1,Shared domain: Education / Nonprofit
+STU0092,BUS0034,2,Shared domain: Education / Nonprofit
+STU0092,BUS0003,3,Shared domain: Education / Nonprofit
+STU0093,BUS0151,1,Shared domain: Design / Creative
+STU0093,BUS0111,2,Shared domain: Design / Creative
+STU0093,BUS0112,3,Shared domain: Design / Creative
+STU0094,BUS0025,1,Shared domain: Education / Nonprofit
+STU0094,BUS0070,2,Shared domain: Education / Nonprofit
+STU0094,BUS0047,3,Shared domain: Education / Nonprofit
+STU0095,BUS0093,1,Shared domain: Education / Nonprofit
+STU0095,BUS0003,2,Shared domain: Education / Nonprofit
+STU0095,BUS0153,3,Shared domain: Education / Nonprofit
+STU0096,BUS0071,1,Shared domain: Finance / Investment
+STU0096,BUS0005,2,Shared domain: Finance / Investment
+STU0096,BUS0166,3,Shared domain: Finance / Investment
+STU0097,BUS0074,1,Shared domain: Technology / Software Engineering
+STU0097,BUS0171,2,Shared domain: Technology / Software Engineering
+STU0097,BUS0144,3,Shared domain: Technology / Software Engineering
+STU0098,BUS0185,1,Shared domain: Healthcare / Life Sciences
+STU0098,BUS0007,2,Shared domain: Healthcare / Life Sciences
+STU0098,BUS0073,3,Shared domain: Healthcare / Life Sciences
+STU0099,BUS0047,1,Shared domain: Education / Nonprofit
+STU0099,BUS0159,2,Shared domain: Education / Nonprofit
+STU0099,BUS0008,3,Shared domain: Education / Nonprofit
+STU0100,BUS0158,1,Shared domain: Media / Entertainment
+STU0100,BUS0013,2,Shared domain: Media / Entertainment
+STU0100,BUS0130,3,Shared domain: Media / Entertainment
+STU0101,BUS0153,1,Shared domain: Education / Nonprofit
+STU0101,BUS0159,2,Shared domain: Education / Nonprofit
+STU0101,BUS0083,3,Shared domain: Education / Nonprofit
+STU0102,BUS0105,1,Shared domain: Consulting / Strategy
+STU0102,BUS0062,2,Shared domain: Consulting / Strategy
+STU0102,BUS0169,3,Shared domain: Consulting / Strategy
+STU0103,BUS0163,1,Shared domain: Design / Creative
+STU0103,BUS0192,2,Shared domain: Design / Creative
+STU0103,BUS0147,3,Shared domain: Design / Creative
+STU0104,BUS0022,1,Shared domain: Marketing / Communications
+STU0104,BUS0019,2,Shared domain: Marketing / Communications
+STU0104,BUS0098,3,Shared domain: Marketing / Communications
+STU0105,BUS0013,1,Shared domain: Media / Entertainment
+STU0105,BUS0174,2,Shared domain: Media / Entertainment
+STU0105,BUS0068,3,Shared domain: Media / Entertainment
+STU0106,BUS0027,1,Shared domain: Marketing / Communications
+STU0106,BUS0024,2,Shared domain: Marketing / Communications
+STU0106,BUS0020,3,Shared domain: Marketing / Communications
+STU0107,BUS0082,1,Shared domain: Education / Nonprofit
+STU0107,BUS0025,2,Shared domain: Education / Nonprofit
+STU0107,BUS0008,3,Shared domain: Education / Nonprofit
+STU0108,BUS0107,1,Shared domain: Marketing / Communications
+STU0108,BUS0019,2,Shared domain: Marketing / Communications
+STU0108,BUS0097,3,Shared domain: Marketing / Communications
+STU0109,BUS0043,1,Shared domain: Design / Creative
+STU0109,BUS0147,2,Shared domain: Design / Creative
+STU0109,BUS0110,3,Shared domain: Design / Creative
+STU0110,BUS0052,1,Shared domain: Technology / Software Engineering
+STU0110,BUS0171,2,Shared domain: Technology / Software Engineering
+STU0110,BUS0164,3,Shared domain: Technology / Software Engineering
+STU0111,BUS0182,1,Shared domain: Design / Creative
+STU0111,BUS0015,2,Shared domain: Design / Creative
+STU0111,BUS0112,3,Shared domain: Design / Creative
+STU0112,BUS0195,1,Shared domain: Consulting / Strategy
+STU0112,BUS0160,2,Shared domain: Consulting / Strategy
+STU0112,BUS0090,3,Shared domain: Consulting / Strategy
+STU0113,BUS0053,1,Shared domain: Healthcare / Life Sciences
+STU0113,BUS0177,2,Shared domain: Healthcare / Life Sciences
+STU0113,BUS0002,3,Shared domain: Healthcare / Life Sciences
+STU0114,BUS0101,1,Shared domain: Marketing / Communications
+STU0114,BUS0104,2,Shared domain: Marketing / Communications
+STU0114,BUS0019,3,Shared domain: Marketing / Communications
+STU0115,BUS0011,1,Shared domain: Finance / Investment
+STU0115,BUS0044,2,Shared domain: Finance / Investment
+STU0115,BUS0200,3,Shared domain: Finance / Investment
+STU0116,BUS0148,1,Shared domain: Technology / Software Engineering
+STU0116,BUS0035,2,Shared domain: Technology / Software Engineering
+STU0116,BUS0074,3,Shared domain: Technology / Software Engineering
+STU0117,BUS0059,1,Shared domain: Media / Entertainment
+STU0117,BUS0069,2,Shared domain: Media / Entertainment
+STU0117,BUS0128,3,Shared domain: Media / Entertainment
+STU0118,BUS0008,1,Shared domain: Education / Nonprofit
+STU0118,BUS0047,2,Shared domain: Education / Nonprofit
+STU0118,BUS0153,3,Shared domain: Education / Nonprofit
+STU0119,BUS0075,1,Shared domain: Media / Entertainment
+STU0119,BUS0137,2,Shared domain: Media / Entertainment
+STU0119,BUS0116,3,Shared domain: Media / Entertainment
+STU0120,BUS0056,1,Shared domain: Healthcare / Life Sciences
+STU0120,BUS0002,2,Shared domain: Healthcare / Life Sciences
+STU0120,BUS0132,3,Shared domain: Healthcare / Life Sciences
+STU0121,BUS0047,1,Shared domain: Education / Nonprofit
+STU0121,BUS0138,2,Shared domain: Education / Nonprofit
+STU0121,BUS0070,3,Shared domain: Education / Nonprofit
+STU0122,BUS0045,1,Shared domain: Consulting / Strategy
+STU0122,BUS0090,2,Shared domain: Consulting / Strategy
+STU0122,BUS0102,3,Shared domain: Consulting / Strategy
+STU0123,BUS0162,1,Shared domain: Technology / Software Engineering
+STU0123,BUS0181,2,Shared domain: Technology / Software Engineering
+STU0123,BUS0031,3,Shared domain: Technology / Software Engineering
+STU0124,BUS0131,1,Shared domain: Consulting / Strategy
+STU0124,BUS0102,2,Shared domain: Consulting / Strategy
+STU0124,BUS0026,3,Shared domain: Consulting / Strategy
+STU0125,BUS0025,1,Shared domain: Education / Nonprofit
+STU0125,BUS0017,2,Shared domain: Education / Nonprofit
+STU0125,BUS0030,3,Shared domain: Education / Nonprofit
+STU0126,BUS0031,1,Shared domain: Technology / Software Engineering
+STU0126,BUS0039,2,Shared domain: Technology / Software Engineering
+STU0126,BUS0086,3,Shared domain: Technology / Software Engineering
+STU0127,BUS0152,1,Shared domain: Education / Nonprofit
+STU0127,BUS0159,2,Shared domain: Education / Nonprofit
+STU0127,BUS0003,3,Shared domain: Education / Nonprofit
+STU0128,BUS0192,1,Shared domain: Design / Creative
+STU0128,BUS0092,2,Shared domain: Design / Creative
+STU0128,BUS0015,3,Shared domain: Design / Creative
+STU0129,BUS0034,1,Shared domain: Education / Nonprofit
+STU0129,BUS0159,2,Shared domain: Education / Nonprofit
+STU0129,BUS0070,3,Shared domain: Education / Nonprofit
+STU0130,BUS0127,1,Shared domain: Design / Creative
+STU0130,BUS0036,2,Shared domain: Design / Creative
+STU0130,BUS0182,3,Shared domain: Design / Creative
+STU0131,BUS0038,1,Shared domain: Education / Nonprofit
+STU0131,BUS0048,2,Shared domain: Education / Nonprofit
+STU0131,BUS0184,3,Shared domain: Education / Nonprofit
+STU0132,BUS0183,1,Shared domain: Marketing / Communications
+STU0132,BUS0049,2,Shared domain: Marketing / Communications
+STU0132,BUS0024,3,Shared domain: Marketing / Communications
+STU0133,BUS0089,1,Shared domain: Consulting / Strategy
+STU0133,BUS0023,2,Shared domain: Consulting / Strategy
+STU0133,BUS0095,3,Shared domain: Consulting / Strategy
+STU0134,BUS0165,1,Shared domain: Consulting / Strategy
+STU0134,BUS0089,2,Shared domain: Consulting / Strategy
+STU0134,BUS0062,3,Shared domain: Consulting / Strategy
+STU0135,BUS0080,1,Shared domain: Media / Entertainment
+STU0135,BUS0068,2,Shared domain: Media / Entertainment
+STU0135,BUS0158,3,Shared domain: Media / Entertainment
+STU0136,BUS0090,1,Shared domain: Consulting / Strategy
+STU0136,BUS0100,2,Shared domain: Consulting / Strategy
+STU0136,BUS0077,3,Shared domain: Consulting / Strategy
+STU0137,BUS0049,1,Shared domain: Marketing / Communications
+STU0137,BUS0058,2,Shared domain: Marketing / Communications
+STU0137,BUS0183,3,Shared domain: Marketing / Communications
+STU0138,BUS0092,1,Shared domain: Design / Creative
+STU0138,BUS0111,2,Shared domain: Design / Creative
+STU0138,BUS0110,3,Shared domain: Design / Creative
+STU0139,BUS0181,1,Shared domain: Technology / Software Engineering
+STU0139,BUS0124,2,Shared domain: Technology / Software Engineering
+STU0139,BUS0074,3,Shared domain: Technology / Software Engineering
+STU0140,BUS0020,1,Shared domain: Marketing / Communications
+STU0140,BUS0135,2,Shared domain: Marketing / Communications
+STU0140,BUS0098,3,Shared domain: Marketing / Communications
+STU0141,BUS0131,1,Shared domain: Consulting / Strategy
+STU0141,BUS0094,2,Shared domain: Consulting / Strategy
+STU0141,BUS0175,3,Shared domain: Consulting / Strategy
+STU0142,BUS0196,1,Shared domain: Healthcare / Life Sciences
+STU0142,BUS0053,2,Shared domain: Healthcare / Life Sciences
+STU0142,BUS0007,3,Shared domain: Healthcare / Life Sciences
+STU0143,BUS0157,1,Shared domain: Marketing / Communications
+STU0143,BUS0101,2,Shared domain: Marketing / Communications
+STU0143,BUS0024,3,Shared domain: Marketing / Communications
+STU0144,BUS0146,1,Shared domain: Finance / Investment
+STU0144,BUS0150,2,Shared domain: Finance / Investment
+STU0144,BUS0044,3,Shared domain: Finance / Investment
+STU0145,BUS0189,1,Shared domain: Education / Nonprofit
+STU0145,BUS0082,2,Shared domain: Education / Nonprofit
+STU0145,BUS0070,3,Shared domain: Education / Nonprofit
+STU0146,BUS0141,1,Shared domain: Consulting / Strategy
+STU0146,BUS0190,2,Shared domain: Consulting / Strategy
+STU0146,BUS0160,3,Shared domain: Consulting / Strategy
+STU0147,BUS0111,1,Shared domain: Design / Creative
+STU0147,BUS0096,2,Shared domain: Design / Creative
+STU0147,BUS0112,3,Shared domain: Design / Creative
+STU0148,BUS0189,1,Shared domain: Education / Nonprofit
+STU0148,BUS0093,2,Shared domain: Education / Nonprofit
+STU0148,BUS0138,3,Shared domain: Education / Nonprofit
+STU0149,BUS0103,1,Shared domain: Healthcare / Life Sciences
+STU0149,BUS0028,2,Shared domain: Healthcare / Life Sciences
+STU0149,BUS0061,3,Shared domain: Healthcare / Life Sciences
+STU0150,BUS0073,1,Shared domain: Healthcare / Life Sciences
+STU0150,BUS0061,2,Shared domain: Healthcare / Life Sciences
+STU0150,BUS0197,3,Shared domain: Healthcare / Life Sciences
+STU0151,BUS0110,1,Shared domain: Design / Creative
+STU0151,BUS0032,2,Shared domain: Design / Creative
+STU0151,BUS0043,3,Shared domain: Design / Creative
+STU0152,BUS0118,1,Shared domain: Consulting / Strategy
+STU0152,BUS0160,2,Shared domain: Consulting / Strategy
+STU0152,BUS0141,3,Shared domain: Consulting / Strategy
+STU0153,BUS0027,1,Shared domain: Marketing / Communications
+STU0153,BUS0135,2,Shared domain: Marketing / Communications
+STU0153,BUS0024,3,Shared domain: Marketing / Communications
+STU0154,BUS0124,1,Shared domain: Technology / Software Engineering
+STU0154,BUS0162,2,Shared domain: Technology / Software Engineering
+STU0154,BUS0086,3,Shared domain: Technology / Software Engineering
+STU0155,BUS0106,1,Shared domain: Finance / Investment
+STU0155,BUS0150,2,Shared domain: Finance / Investment
+STU0155,BUS0117,3,Shared domain: Finance / Investment
+STU0156,BUS0158,1,Shared domain: Media / Entertainment
+STU0156,BUS0041,2,Shared domain: Media / Entertainment
+STU0156,BUS0109,3,Shared domain: Media / Entertainment
+STU0157,BUS0180,1,Shared domain: Design / Creative
+STU0157,BUS0043,2,Shared domain: Design / Creative
+STU0157,BUS0163,3,Shared domain: Design / Creative
+STU0158,BUS0099,1,Shared domain: Technology / Software Engineering
+STU0158,BUS0009,2,Shared domain: Technology / Software Engineering
+STU0158,BUS0039,3,Shared domain: Technology / Software Engineering
+STU0159,BUS0123,1,Shared domain: Technology / Software Engineering
+STU0159,BUS0144,2,Shared domain: Technology / Software Engineering
+STU0159,BUS0086,3,Shared domain: Technology / Software Engineering
+STU0160,BUS0155,1,Shared domain: Healthcare / Life Sciences
+STU0160,BUS0037,2,Shared domain: Healthcare / Life Sciences
+STU0160,BUS0056,3,Shared domain: Healthcare / Life Sciences
+STU0161,BUS0099,1,Shared domain: Technology / Software Engineering
+STU0161,BUS0081,2,Shared domain: Technology / Software Engineering
+STU0161,BUS0039,3,Shared domain: Technology / Software Engineering
+STU0162,BUS0124,1,Shared domain: Technology / Software Engineering
+STU0162,BUS0149,2,Shared domain: Technology / Software Engineering
+STU0162,BUS0039,3,Shared domain: Technology / Software Engineering
+STU0163,BUS0186,1,Shared domain: Finance / Investment
+STU0163,BUS0001,2,Shared domain: Finance / Investment
+STU0163,BUS0133,3,Shared domain: Finance / Investment
+STU0164,BUS0156,1,Shared domain: Design / Creative
+STU0164,BUS0127,2,Shared domain: Design / Creative
+STU0164,BUS0151,3,Shared domain: Design / Creative
+STU0165,BUS0162,1,Shared domain: Technology / Software Engineering
+STU0165,BUS0181,2,Shared domain: Technology / Software Engineering
+STU0165,BUS0123,3,Shared domain: Technology / Software Engineering
+STU0166,BUS0101,1,Shared domain: Marketing / Communications
+STU0166,BUS0135,2,Shared domain: Marketing / Communications
+STU0166,BUS0057,3,Shared domain: Marketing / Communications
+STU0167,BUS0058,1,Shared domain: Marketing / Communications
+STU0167,BUS0098,2,Shared domain: Marketing / Communications
+STU0167,BUS0097,3,Shared domain: Marketing / Communications
+STU0168,BUS0130,1,Shared domain: Media / Entertainment
+STU0168,BUS0115,2,Shared domain: Media / Entertainment
+STU0168,BUS0087,3,Shared domain: Media / Entertainment
+STU0169,BUS0005,1,Shared domain: Finance / Investment
+STU0169,BUS0067,2,Shared domain: Finance / Investment
+STU0169,BUS0186,3,Shared domain: Finance / Investment
+STU0170,BUS0143,1,Shared domain: Marketing / Communications
+STU0170,BUS0022,2,Shared domain: Marketing / Communications
+STU0170,BUS0104,3,Shared domain: Marketing / Communications
+STU0171,BUS0194,1,Shared domain: Healthcare / Life Sciences
+STU0171,BUS0103,2,Shared domain: Healthcare / Life Sciences
+STU0171,BUS0185,3,Shared domain: Healthcare / Life Sciences
+STU0172,BUS0006,1,Shared domain: Healthcare / Life Sciences
+STU0172,BUS0053,2,Shared domain: Healthcare / Life Sciences
+STU0172,BUS0132,3,Shared domain: Healthcare / Life Sciences
+STU0173,BUS0173,1,Shared domain: Marketing / Communications
+STU0173,BUS0143,2,Shared domain: Marketing / Communications
+STU0173,BUS0049,3,Shared domain: Marketing / Communications
+STU0174,BUS0158,1,Shared domain: Media / Entertainment
+STU0174,BUS0068,2,Shared domain: Media / Entertainment
+STU0174,BUS0174,3,Shared domain: Media / Entertainment
+STU0175,BUS0160,1,Shared domain: Consulting / Strategy
+STU0175,BUS0090,2,Shared domain: Consulting / Strategy
+STU0175,BUS0190,3,Shared domain: Consulting / Strategy
+STU0176,BUS0019,1,Shared domain: Marketing / Communications
+STU0176,BUS0020,2,Shared domain: Marketing / Communications
+STU0176,BUS0076,3,Shared domain: Marketing / Communications
+STU0177,BUS0190,1,Shared domain: Consulting / Strategy
+STU0177,BUS0175,2,Shared domain: Consulting / Strategy
+STU0177,BUS0050,3,Shared domain: Consulting / Strategy
+STU0178,BUS0070,1,Shared domain: Education / Nonprofit
+STU0178,BUS0083,2,Shared domain: Education / Nonprofit
+STU0178,BUS0078,3,Shared domain: Education / Nonprofit
+STU0179,BUS0042,1,Shared domain: Finance / Investment
+STU0179,BUS0133,2,Shared domain: Finance / Investment
+STU0179,BUS0001,3,Shared domain: Finance / Investment
+STU0180,BUS0184,1,Shared domain: Education / Nonprofit
+STU0180,BUS0029,2,Shared domain: Education / Nonprofit
+STU0180,BUS0034,3,Shared domain: Education / Nonprofit
+STU0181,BUS0042,1,Shared domain: Finance / Investment
+STU0181,BUS0084,2,Shared domain: Finance / Investment
+STU0181,BUS0011,3,Shared domain: Finance / Investment
+STU0182,BUS0039,1,Shared domain: Technology / Software Engineering
+STU0182,BUS0054,2,Shared domain: Technology / Software Engineering
+STU0182,BUS0052,3,Shared domain: Technology / Software Engineering
+STU0183,BUS0125,1,Shared domain: Finance / Investment
+STU0183,BUS0011,2,Shared domain: Finance / Investment
+STU0183,BUS0178,3,Shared domain: Finance / Investment
+STU0184,BUS0079,1,Shared domain: Media / Entertainment
+STU0184,BUS0068,2,Shared domain: Media / Entertainment
+STU0184,BUS0145,3,Shared domain: Media / Entertainment
+STU0185,BUS0070,1,Shared domain: Education / Nonprofit
+STU0185,BUS0003,2,Shared domain: Education / Nonprofit
+STU0185,BUS0088,3,Shared domain: Education / Nonprofit
+STU0186,BUS0030,1,Shared domain: Education / Nonprofit
+STU0186,BUS0070,2,Shared domain: Education / Nonprofit
+STU0186,BUS0025,3,Shared domain: Education / Nonprofit
+STU0187,BUS0136,1,Shared domain: Finance / Investment
+STU0187,BUS0146,2,Shared domain: Finance / Investment
+STU0187,BUS0168,3,Shared domain: Finance / Investment
+STU0188,BUS0121,1,Shared domain: Technology / Software Engineering
+STU0188,BUS0181,2,Shared domain: Technology / Software Engineering
+STU0188,BUS0052,3,Shared domain: Technology / Software Engineering
+STU0189,BUS0130,1,Shared domain: Media / Entertainment
+STU0189,BUS0115,2,Shared domain: Media / Entertainment
+STU0189,BUS0128,3,Shared domain: Media / Entertainment
+STU0190,BUS0181,1,Shared domain: Technology / Software Engineering
+STU0190,BUS0054,2,Shared domain: Technology / Software Engineering
+STU0190,BUS0033,3,Shared domain: Technology / Software Engineering
+STU0191,BUS0115,1,Shared domain: Media / Entertainment
+STU0191,BUS0068,2,Shared domain: Media / Entertainment
+STU0191,BUS0109,3,Shared domain: Media / Entertainment
+STU0192,BUS0035,1,Shared domain: Technology / Software Engineering
+STU0192,BUS0121,2,Shared domain: Technology / Software Engineering
+STU0192,BUS0086,3,Shared domain: Technology / Software Engineering
+STU0193,BUS0076,1,Shared domain: Marketing / Communications
+STU0193,BUS0104,2,Shared domain: Marketing / Communications
+STU0193,BUS0101,3,Shared domain: Marketing / Communications
+STU0194,BUS0147,1,Shared domain: Design / Creative
+STU0194,BUS0036,2,Shared domain: Design / Creative
+STU0194,BUS0113,3,Shared domain: Design / Creative
+STU0195,BUS0199,1,Shared domain: Healthcare / Life Sciences
+STU0195,BUS0006,2,Shared domain: Healthcare / Life Sciences
+STU0195,BUS0064,3,Shared domain: Healthcare / Life Sciences
+STU0196,BUS0156,1,Shared domain: Design / Creative
+STU0196,BUS0092,2,Shared domain: Design / Creative
+STU0196,BUS0192,3,Shared domain: Design / Creative
+STU0197,BUS0054,1,Shared domain: Technology / Software Engineering
+STU0197,BUS0099,2,Shared domain: Technology / Software Engineering
+STU0197,BUS0086,3,Shared domain: Technology / Software Engineering
+STU0198,BUS0142,1,Shared domain: Finance / Investment
+STU0198,BUS0200,2,Shared domain: Finance / Investment
+STU0198,BUS0001,3,Shared domain: Finance / Investment
+STU0199,BUS0153,1,Shared domain: Education / Nonprofit
+STU0199,BUS0078,2,Shared domain: Education / Nonprofit
+STU0199,BUS0017,3,Shared domain: Education / Nonprofit
+STU0200,BUS0163,1,Shared domain: Design / Creative
+STU0200,BUS0108,2,Shared domain: Design / Creative
+STU0200,BUS0072,3,Shared domain: Design / Creative
+STU0201,BUS0199,1,Shared domain: Healthcare / Life Sciences
+STU0201,BUS0060,2,Shared domain: Healthcare / Life Sciences
+STU0201,BUS0007,3,Shared domain: Healthcare / Life Sciences
+STU0202,BUS0052,1,Shared domain: Technology / Software Engineering
+STU0202,BUS0081,2,Shared domain: Technology / Software Engineering
+STU0202,BUS0123,3,Shared domain: Technology / Software Engineering
+STU0203,BUS0028,1,Shared domain: Healthcare / Life Sciences
+STU0203,BUS0155,2,Shared domain: Healthcare / Life Sciences
+STU0203,BUS0179,3,Shared domain: Healthcare / Life Sciences
+STU0204,BUS0191,1,Shared domain: Media / Entertainment
+STU0204,BUS0069,2,Shared domain: Media / Entertainment
+STU0204,BUS0116,3,Shared domain: Media / Entertainment
+STU0205,BUS0072,1,Shared domain: Design / Creative
+STU0205,BUS0111,2,Shared domain: Design / Creative
+STU0205,BUS0120,3,Shared domain: Design / Creative
+STU0206,BUS0198,1,Shared domain: Healthcare / Life Sciences
+STU0206,BUS0007,2,Shared domain: Healthcare / Life Sciences
+STU0206,BUS0073,3,Shared domain: Healthcare / Life Sciences
+STU0207,BUS0187,1,Shared domain: Healthcare / Life Sciences
+STU0207,BUS0056,2,Shared domain: Healthcare / Life Sciences
+STU0207,BUS0053,3,Shared domain: Healthcare / Life Sciences
+STU0208,BUS0117,1,Shared domain: Finance / Investment
+STU0208,BUS0168,2,Shared domain: Finance / Investment
+STU0208,BUS0142,3,Shared domain: Finance / Investment
+STU0209,BUS0037,1,Shared domain: Healthcare / Life Sciences
+STU0209,BUS0197,2,Shared domain: Healthcare / Life Sciences
+STU0209,BUS0028,3,Shared domain: Healthcare / Life Sciences
+STU0210,BUS0098,1,Shared domain: Marketing / Communications
+STU0210,BUS0022,2,Shared domain: Marketing / Communications
+STU0210,BUS0101,3,Shared domain: Marketing / Communications
+STU0211,BUS0188,1,Shared domain: Finance / Investment
+STU0211,BUS0001,2,Shared domain: Finance / Investment
+STU0211,BUS0042,3,Shared domain: Finance / Investment
+STU0212,BUS0097,1,Shared domain: Marketing / Communications
+STU0212,BUS0024,2,Shared domain: Marketing / Communications
+STU0212,BUS0157,3,Shared domain: Marketing / Communications
+STU0213,BUS0143,1,Shared domain: Marketing / Communications
+STU0213,BUS0101,2,Shared domain: Marketing / Communications
+STU0213,BUS0107,3,Shared domain: Marketing / Communications
+STU0214,BUS0009,1,Shared domain: Technology / Software Engineering
+STU0214,BUS0144,2,Shared domain: Technology / Software Engineering
+STU0214,BUS0171,3,Shared domain: Technology / Software Engineering
+STU0215,BUS0167,1,Shared domain: Design / Creative
+STU0215,BUS0120,2,Shared domain: Design / Creative
+STU0215,BUS0126,3,Shared domain: Design / Creative
+STU0216,BUS0016,1,Shared domain: Healthcare / Life Sciences
+STU0216,BUS0132,2,Shared domain: Healthcare / Life Sciences
+STU0216,BUS0194,3,Shared domain: Healthcare / Life Sciences
+STU0217,BUS0074,1,Shared domain: Technology / Software Engineering
+STU0217,BUS0171,2,Shared domain: Technology / Software Engineering
+STU0217,BUS0033,3,Shared domain: Technology / Software Engineering
+STU0218,BUS0153,1,Shared domain: Education / Nonprofit
+STU0218,BUS0083,2,Shared domain: Education / Nonprofit
+STU0218,BUS0093,3,Shared domain: Education / Nonprofit
+STU0219,BUS0098,1,Shared domain: Marketing / Communications
+STU0219,BUS0135,2,Shared domain: Marketing / Communications
+STU0219,BUS0097,3,Shared domain: Marketing / Communications
+STU0220,BUS0145,1,Shared domain: Media / Entertainment
+STU0220,BUS0114,2,Shared domain: Media / Entertainment
+STU0220,BUS0063,3,Shared domain: Media / Entertainment
+STU0221,BUS0056,1,Shared domain: Healthcare / Life Sciences
+STU0221,BUS0194,2,Shared domain: Healthcare / Life Sciences
+STU0221,BUS0179,3,Shared domain: Healthcare / Life Sciences
+STU0222,BUS0020,1,Shared domain: Marketing / Communications
+STU0222,BUS0024,2,Shared domain: Marketing / Communications
+STU0222,BUS0004,3,Shared domain: Marketing / Communications
+STU0223,BUS0091,1,Shared domain: Finance / Investment
+STU0223,BUS0176,2,Shared domain: Finance / Investment
+STU0223,BUS0150,3,Shared domain: Finance / Investment
+STU0224,BUS0085,1,Shared domain: Consulting / Strategy
+STU0224,BUS0066,2,Shared domain: Consulting / Strategy
+STU0224,BUS0118,3,Shared domain: Consulting / Strategy
+STU0225,BUS0164,1,Shared domain: Technology / Software Engineering
+STU0225,BUS0124,2,Shared domain: Technology / Software Engineering
+STU0225,BUS0123,3,Shared domain: Technology / Software Engineering
+STU0226,BUS0019,1,Shared domain: Marketing / Communications
+STU0226,BUS0107,2,Shared domain: Marketing / Communications
+STU0226,BUS0076,3,Shared domain: Marketing / Communications
+STU0227,BUS0005,1,Shared domain: Finance / Investment
+STU0227,BUS0012,2,Shared domain: Finance / Investment
+STU0227,BUS0136,3,Shared domain: Finance / Investment
+STU0228,BUS0128,1,Shared domain: Media / Entertainment
+STU0228,BUS0114,2,Shared domain: Media / Entertainment
+STU0228,BUS0041,3,Shared domain: Media / Entertainment
+STU0229,BUS0140,1,Shared domain: Consulting / Strategy
+STU0229,BUS0160,2,Shared domain: Consulting / Strategy
+STU0229,BUS0094,3,Shared domain: Consulting / Strategy
+STU0230,BUS0080,1,Shared domain: Media / Entertainment
+STU0230,BUS0116,2,Shared domain: Media / Entertainment
+STU0230,BUS0109,3,Shared domain: Media / Entertainment
+STU0231,BUS0172,1,Shared domain: Technology / Software Engineering
+STU0231,BUS0081,2,Shared domain: Technology / Software Engineering
+STU0231,BUS0009,3,Shared domain: Technology / Software Engineering
+STU0232,BUS0138,1,Shared domain: Education / Nonprofit
+STU0232,BUS0047,2,Shared domain: Education / Nonprofit
+STU0232,BUS0030,3,Shared domain: Education / Nonprofit
+STU0233,BUS0084,1,Shared domain: Finance / Investment
+STU0233,BUS0106,2,Shared domain: Finance / Investment
+STU0233,BUS0125,3,Shared domain: Finance / Investment
+STU0234,BUS0006,1,Shared domain: Healthcare / Life Sciences
+STU0234,BUS0196,2,Shared domain: Healthcare / Life Sciences
+STU0234,BUS0134,3,Shared domain: Healthcare / Life Sciences
+STU0235,BUS0132,1,Shared domain: Healthcare / Life Sciences
+STU0235,BUS0007,2,Shared domain: Healthcare / Life Sciences
+STU0235,BUS0040,3,Shared domain: Healthcare / Life Sciences
+STU0236,BUS0098,1,Shared domain: Marketing / Communications
+STU0236,BUS0019,2,Shared domain: Marketing / Communications
+STU0236,BUS0154,3,Shared domain: Marketing / Communications
+STU0237,BUS0121,1,Shared domain: Technology / Software Engineering
+STU0237,BUS0054,2,Shared domain: Technology / Software Engineering
+STU0237,BUS0039,3,Shared domain: Technology / Software Engineering
+STU0238,BUS0026,1,Shared domain: Consulting / Strategy
+STU0238,BUS0119,2,Shared domain: Consulting / Strategy
+STU0238,BUS0045,3,Shared domain: Consulting / Strategy
+STU0239,BUS0021,1,Shared domain: Finance / Investment
+STU0239,BUS0178,2,Shared domain: Finance / Investment
+STU0239,BUS0166,3,Shared domain: Finance / Investment
+STU0240,BUS0136,1,Shared domain: Finance / Investment
+STU0240,BUS0125,2,Shared domain: Finance / Investment
+STU0240,BUS0071,3,Shared domain: Finance / Investment
+STU0241,BUS0099,1,Shared domain: Technology / Software Engineering
+STU0241,BUS0124,2,Shared domain: Technology / Software Engineering
+STU0241,BUS0181,3,Shared domain: Technology / Software Engineering
+STU0242,BUS0174,1,Shared domain: Media / Entertainment
+STU0242,BUS0079,2,Shared domain: Media / Entertainment
+STU0242,BUS0137,3,Shared domain: Media / Entertainment
+STU0243,BUS0131,1,Shared domain: Consulting / Strategy
+STU0243,BUS0102,2,Shared domain: Consulting / Strategy
+STU0243,BUS0023,3,Shared domain: Consulting / Strategy
+STU0244,BUS0031,1,Shared domain: Technology / Software Engineering
+STU0244,BUS0086,2,Shared domain: Technology / Software Engineering
+STU0244,BUS0099,3,Shared domain: Technology / Software Engineering
+STU0245,BUS0010,1,Shared domain: Technology / Software Engineering
+STU0245,BUS0035,2,Shared domain: Technology / Software Engineering
+STU0245,BUS0164,3,Shared domain: Technology / Software Engineering
+STU0246,BUS0191,1,Shared domain: Media / Entertainment
+STU0246,BUS0063,2,Shared domain: Media / Entertainment
+STU0246,BUS0115,3,Shared domain: Media / Entertainment
+STU0247,BUS0137,1,Shared domain: Media / Entertainment
+STU0247,BUS0059,2,Shared domain: Media / Entertainment
+STU0247,BUS0109,3,Shared domain: Media / Entertainment
+STU0248,BUS0163,1,Shared domain: Design / Creative
+STU0248,BUS0182,2,Shared domain: Design / Creative
+STU0248,BUS0111,3,Shared domain: Design / Creative
+STU0249,BUS0104,1,Shared domain: Marketing / Communications
+STU0249,BUS0101,2,Shared domain: Marketing / Communications
+STU0249,BUS0004,3,Shared domain: Marketing / Communications
+STU0250,BUS0069,1,Shared domain: Media / Entertainment
+STU0250,BUS0080,2,Shared domain: Media / Entertainment
+STU0250,BUS0059,3,Shared domain: Media / Entertainment
+STU0251,BUS0116,1,Shared domain: Media / Entertainment
+STU0251,BUS0063,2,Shared domain: Media / Entertainment
+STU0251,BUS0075,3,Shared domain: Media / Entertainment
+STU0252,BUS0131,1,Shared domain: Consulting / Strategy
+STU0252,BUS0085,2,Shared domain: Consulting / Strategy
+STU0252,BUS0089,3,Shared domain: Consulting / Strategy
+STU0253,BUS0065,1,Shared domain: Healthcare / Life Sciences
+STU0253,BUS0016,2,Shared domain: Healthcare / Life Sciences
+STU0253,BUS0177,3,Shared domain: Healthcare / Life Sciences
+STU0254,BUS0158,1,Shared domain: Media / Entertainment
+STU0254,BUS0130,2,Shared domain: Media / Entertainment
+STU0254,BUS0075,3,Shared domain: Media / Entertainment
+STU0255,BUS0116,1,Shared domain: Media / Entertainment
+STU0255,BUS0080,2,Shared domain: Media / Entertainment
+STU0255,BUS0069,3,Shared domain: Media / Entertainment
+STU0256,BUS0085,1,Shared domain: Consulting / Strategy
+STU0256,BUS0118,2,Shared domain: Consulting / Strategy
+STU0256,BUS0160,3,Shared domain: Consulting / Strategy
+STU0257,BUS0007,1,Shared domain: Healthcare / Life Sciences
+STU0257,BUS0185,2,Shared domain: Healthcare / Life Sciences
+STU0257,BUS0056,3,Shared domain: Healthcare / Life Sciences
+STU0258,BUS0076,1,Shared domain: Marketing / Communications
+STU0258,BUS0058,2,Shared domain: Marketing / Communications
+STU0258,BUS0004,3,Shared domain: Marketing / Communications
+STU0259,BUS0116,1,Shared domain: Media / Entertainment
+STU0259,BUS0075,2,Shared domain: Media / Entertainment
+STU0259,BUS0013,3,Shared domain: Media / Entertainment
+STU0260,BUS0187,1,Shared domain: Healthcare / Life Sciences
+STU0260,BUS0046,2,Shared domain: Healthcare / Life Sciences
+STU0260,BUS0103,3,Shared domain: Healthcare / Life Sciences
+STU0261,BUS0047,1,Shared domain: Education / Nonprofit
+STU0261,BUS0083,2,Shared domain: Education / Nonprofit
+STU0261,BUS0153,3,Shared domain: Education / Nonprofit
+STU0262,BUS0163,1,Shared domain: Design / Creative
+STU0262,BUS0112,2,Shared domain: Design / Creative
+STU0262,BUS0043,3,Shared domain: Design / Creative
+STU0263,BUS0064,1,Shared domain: Healthcare / Life Sciences
+STU0263,BUS0006,2,Shared domain: Healthcare / Life Sciences
+STU0263,BUS0134,3,Shared domain: Healthcare / Life Sciences
+STU0264,BUS0079,1,Shared domain: Media / Entertainment
+STU0264,BUS0059,2,Shared domain: Media / Entertainment
+STU0264,BUS0087,3,Shared domain: Media / Entertainment
+STU0265,BUS0173,1,Shared domain: Marketing / Communications
+STU0265,BUS0107,2,Shared domain: Marketing / Communications
+STU0265,BUS0157,3,Shared domain: Marketing / Communications
+STU0266,BUS0123,1,Shared domain: Technology / Software Engineering
+STU0266,BUS0171,2,Shared domain: Technology / Software Engineering
+STU0266,BUS0164,3,Shared domain: Technology / Software Engineering
+STU0267,BUS0090,1,Shared domain: Consulting / Strategy
+STU0267,BUS0119,2,Shared domain: Consulting / Strategy
+STU0267,BUS0095,3,Shared domain: Consulting / Strategy
+STU0268,BUS0129,1,Shared domain: Design / Creative
+STU0268,BUS0147,2,Shared domain: Design / Creative
+STU0268,BUS0015,3,Shared domain: Design / Creative
+STU0269,BUS0112,1,Shared domain: Design / Creative
+STU0269,BUS0113,2,Shared domain: Design / Creative
+STU0269,BUS0127,3,Shared domain: Design / Creative
+STU0270,BUS0068,1,Shared domain: Media / Entertainment
+STU0270,BUS0128,2,Shared domain: Media / Entertainment
+STU0270,BUS0130,3,Shared domain: Media / Entertainment
+STU0271,BUS0075,1,Shared domain: Media / Entertainment
+STU0271,BUS0145,2,Shared domain: Media / Entertainment
+STU0271,BUS0069,3,Shared domain: Media / Entertainment
+STU0272,BUS0172,1,Shared domain: Technology / Software Engineering
+STU0272,BUS0121,2,Shared domain: Technology / Software Engineering
+STU0272,BUS0074,3,Shared domain: Technology / Software Engineering
+STU0273,BUS0078,1,Shared domain: Education / Nonprofit
+STU0273,BUS0008,2,Shared domain: Education / Nonprofit
+STU0273,BUS0184,3,Shared domain: Education / Nonprofit
+STU0274,BUS0131,1,Shared domain: Consulting / Strategy
+STU0274,BUS0026,2,Shared domain: Consulting / Strategy
+STU0274,BUS0141,3,Shared domain: Consulting / Strategy
+STU0275,BUS0129,1,Shared domain: Design / Creative
+STU0275,BUS0147,2,Shared domain: Design / Creative
+STU0275,BUS0113,3,Shared domain: Design / Creative
+STU0276,BUS0036,1,Shared domain: Design / Creative
+STU0276,BUS0096,2,Shared domain: Design / Creative
+STU0276,BUS0182,3,Shared domain: Design / Creative
+STU0277,BUS0139,1,Shared domain: Design / Creative
+STU0277,BUS0113,2,Shared domain: Design / Creative
+STU0277,BUS0111,3,Shared domain: Design / Creative
+STU0278,BUS0081,1,Shared domain: Technology / Software Engineering
+STU0278,BUS0086,2,Shared domain: Technology / Software Engineering
+STU0278,BUS0124,3,Shared domain: Technology / Software Engineering
+STU0279,BUS0197,1,Shared domain: Healthcare / Life Sciences
+STU0279,BUS0006,2,Shared domain: Healthcare / Life Sciences
+STU0279,BUS0051,3,Shared domain: Healthcare / Life Sciences
+STU0280,BUS0173,1,Shared domain: Marketing / Communications
+STU0280,BUS0157,2,Shared domain: Marketing / Communications
+STU0280,BUS0027,3,Shared domain: Marketing / Communications
+STU0281,BUS0174,1,Shared domain: Media / Entertainment
+STU0281,BUS0114,2,Shared domain: Media / Entertainment
+STU0281,BUS0158,3,Shared domain: Media / Entertainment
+STU0282,BUS0116,1,Shared domain: Media / Entertainment
+STU0282,BUS0191,2,Shared domain: Media / Entertainment
+STU0282,BUS0013,3,Shared domain: Media / Entertainment
+STU0283,BUS0192,1,Shared domain: Design / Creative
+STU0283,BUS0111,2,Shared domain: Design / Creative
+STU0283,BUS0147,3,Shared domain: Design / Creative
+STU0284,BUS0178,1,Shared domain: Finance / Investment
+STU0284,BUS0136,2,Shared domain: Finance / Investment
+STU0284,BUS0067,3,Shared domain: Finance / Investment
+STU0285,BUS0095,1,Shared domain: Consulting / Strategy
+STU0285,BUS0119,2,Shared domain: Consulting / Strategy
+STU0285,BUS0050,3,Shared domain: Consulting / Strategy
+STU0286,BUS0101,1,Shared domain: Marketing / Communications
+STU0286,BUS0173,2,Shared domain: Marketing / Communications
+STU0286,BUS0022,3,Shared domain: Marketing / Communications
+STU0287,BUS0045,1,Shared domain: Consulting / Strategy
+STU0287,BUS0095,2,Shared domain: Consulting / Strategy
+STU0287,BUS0066,3,Shared domain: Consulting / Strategy
+STU0288,BUS0061,1,Shared domain: Healthcare / Life Sciences
+STU0288,BUS0040,2,Shared domain: Healthcare / Life Sciences
+STU0288,BUS0122,3,Shared domain: Healthcare / Life Sciences
+STU0289,BUS0056,1,Shared domain: Healthcare / Life Sciences
+STU0289,BUS0053,2,Shared domain: Healthcare / Life Sciences
+STU0289,BUS0185,3,Shared domain: Healthcare / Life Sciences
+STU0290,BUS0145,1,Shared domain: Media / Entertainment
+STU0290,BUS0116,2,Shared domain: Media / Entertainment
+STU0290,BUS0114,3,Shared domain: Media / Entertainment
+STU0291,BUS0034,1,Shared domain: Education / Nonprofit
+STU0291,BUS0082,2,Shared domain: Education / Nonprofit
+STU0291,BUS0153,3,Shared domain: Education / Nonprofit
+STU0292,BUS0103,1,Shared domain: Healthcare / Life Sciences
+STU0292,BUS0134,2,Shared domain: Healthcare / Life Sciences
+STU0292,BUS0177,3,Shared domain: Healthcare / Life Sciences
+STU0293,BUS0166,1,Shared domain: Finance / Investment
+STU0293,BUS0012,2,Shared domain: Finance / Investment
+STU0293,BUS0168,3,Shared domain: Finance / Investment
+STU0294,BUS0134,1,Shared domain: Healthcare / Life Sciences
+STU0294,BUS0185,2,Shared domain: Healthcare / Life Sciences
+STU0294,BUS0064,3,Shared domain: Healthcare / Life Sciences
+STU0295,BUS0120,1,Shared domain: Design / Creative
+STU0295,BUS0129,2,Shared domain: Design / Creative
+STU0295,BUS0192,3,Shared domain: Design / Creative
+STU0296,BUS0127,1,Shared domain: Design / Creative
+STU0296,BUS0111,2,Shared domain: Design / Creative
+STU0296,BUS0092,3,Shared domain: Design / Creative
+STU0297,BUS0056,1,Shared domain: Healthcare / Life Sciences
+STU0297,BUS0185,2,Shared domain: Healthcare / Life Sciences
+STU0297,BUS0122,3,Shared domain: Healthcare / Life Sciences
+STU0298,BUS0001,1,Shared domain: Finance / Investment
+STU0298,BUS0146,2,Shared domain: Finance / Investment
+STU0298,BUS0200,3,Shared domain: Finance / Investment
+STU0299,BUS0090,1,Shared domain: Consulting / Strategy
+STU0299,BUS0175,2,Shared domain: Consulting / Strategy
+STU0299,BUS0102,3,Shared domain: Consulting / Strategy
+STU0300,BUS0159,1,Shared domain: Education / Nonprofit
+STU0300,BUS0030,2,Shared domain: Education / Nonprofit
+STU0300,BUS0184,3,Shared domain: Education / Nonprofit
+STU0301,BUS0045,1,Shared domain: Consulting / Strategy
+STU0301,BUS0095,2,Shared domain: Consulting / Strategy
+STU0301,BUS0131,3,Shared domain: Consulting / Strategy
+STU0302,BUS0163,1,Shared domain: Design / Creative
+STU0302,BUS0126,2,Shared domain: Design / Creative
+STU0302,BUS0096,3,Shared domain: Design / Creative
+STU0303,BUS0159,1,Shared domain: Education / Nonprofit
+STU0303,BUS0003,2,Shared domain: Education / Nonprofit
+STU0303,BUS0153,3,Shared domain: Education / Nonprofit
+STU0304,BUS0077,1,Shared domain: Consulting / Strategy
+STU0304,BUS0050,2,Shared domain: Consulting / Strategy
+STU0304,BUS0140,3,Shared domain: Consulting / Strategy
+STU0305,BUS0161,1,Shared domain: Finance / Investment
+STU0305,BUS0142,2,Shared domain: Finance / Investment
+STU0305,BUS0011,3,Shared domain: Finance / Investment
+STU0306,BUS0156,1,Shared domain: Design / Creative
+STU0306,BUS0151,2,Shared domain: Design / Creative
+STU0306,BUS0182,3,Shared domain: Design / Creative
+STU0307,BUS0104,1,Shared domain: Marketing / Communications
+STU0307,BUS0004,2,Shared domain: Marketing / Communications
+STU0307,BUS0097,3,Shared domain: Marketing / Communications
+STU0308,BUS0174,1,Shared domain: Media / Entertainment
+STU0308,BUS0079,2,Shared domain: Media / Entertainment
+STU0308,BUS0069,3,Shared domain: Media / Entertainment
+STU0309,BUS0157,1,Shared domain: Marketing / Communications
+STU0309,BUS0135,2,Shared domain: Marketing / Communications
+STU0309,BUS0020,3,Shared domain: Marketing / Communications
+STU0310,BUS0177,1,Shared domain: Healthcare / Life Sciences
+STU0310,BUS0006,2,Shared domain: Healthcare / Life Sciences
+STU0310,BUS0179,3,Shared domain: Healthcare / Life Sciences
+STU0311,BUS0145,1,Shared domain: Media / Entertainment
+STU0311,BUS0137,2,Shared domain: Media / Entertainment
+STU0311,BUS0075,3,Shared domain: Media / Entertainment
+STU0312,BUS0069,1,Shared domain: Media / Entertainment
+STU0312,BUS0128,2,Shared domain: Media / Entertainment
+STU0312,BUS0114,3,Shared domain: Media / Entertainment
+STU0313,BUS0054,1,Shared domain: Technology / Software Engineering
+STU0313,BUS0039,2,Shared domain: Technology / Software Engineering
+STU0313,BUS0144,3,Shared domain: Technology / Software Engineering
+STU0314,BUS0189,1,Shared domain: Education / Nonprofit
+STU0314,BUS0034,2,Shared domain: Education / Nonprofit
+STU0314,BUS0055,3,Shared domain: Education / Nonprofit
+STU0315,BUS0029,1,Shared domain: Education / Nonprofit
+STU0315,BUS0048,2,Shared domain: Education / Nonprofit
+STU0315,BUS0017,3,Shared domain: Education / Nonprofit
+STU0316,BUS0003,1,Shared domain: Education / Nonprofit
+STU0316,BUS0034,2,Shared domain: Education / Nonprofit
+STU0316,BUS0152,3,Shared domain: Education / Nonprofit
+STU0317,BUS0124,1,Shared domain: Technology / Software Engineering
+STU0317,BUS0054,2,Shared domain: Technology / Software Engineering
+STU0317,BUS0172,3,Shared domain: Technology / Software Engineering
+STU0318,BUS0156,1,Shared domain: Design / Creative
+STU0318,BUS0127,2,Shared domain: Design / Creative
+STU0318,BUS0108,3,Shared domain: Design / Creative
+STU0319,BUS0069,1,Shared domain: Media / Entertainment
+STU0319,BUS0128,2,Shared domain: Media / Entertainment
+STU0319,BUS0137,3,Shared domain: Media / Entertainment
+STU0320,BUS0171,1,Shared domain: Technology / Software Engineering
+STU0320,BUS0033,2,Shared domain: Technology / Software Engineering
+STU0320,BUS0164,3,Shared domain: Technology / Software Engineering
+STU0321,BUS0195,1,Shared domain: Consulting / Strategy
+STU0321,BUS0090,2,Shared domain: Consulting / Strategy
+STU0321,BUS0062,3,Shared domain: Consulting / Strategy
+STU0322,BUS0077,1,Shared domain: Consulting / Strategy
+STU0322,BUS0102,2,Shared domain: Consulting / Strategy
+STU0322,BUS0169,3,Shared domain: Consulting / Strategy
+STU0323,BUS0036,1,Shared domain: Design / Creative
+STU0323,BUS0015,2,Shared domain: Design / Creative
+STU0323,BUS0182,3,Shared domain: Design / Creative
+STU0324,BUS0041,1,Shared domain: Media / Entertainment
+STU0324,BUS0116,2,Shared domain: Media / Entertainment
+STU0324,BUS0137,3,Shared domain: Media / Entertainment
+STU0325,BUS0135,1,Shared domain: Marketing / Communications
+STU0325,BUS0101,2,Shared domain: Marketing / Communications
+STU0325,BUS0020,3,Shared domain: Marketing / Communications
+STU0326,BUS0187,1,Shared domain: Healthcare / Life Sciences
+STU0326,BUS0073,2,Shared domain: Healthcare / Life Sciences
+STU0326,BUS0040,3,Shared domain: Healthcare / Life Sciences
+STU0327,BUS0165,1,Shared domain: Consulting / Strategy
+STU0327,BUS0175,2,Shared domain: Consulting / Strategy
+STU0327,BUS0140,3,Shared domain: Consulting / Strategy
+STU0328,BUS0166,1,Shared domain: Finance / Investment
+STU0328,BUS0146,2,Shared domain: Finance / Investment
+STU0328,BUS0176,3,Shared domain: Finance / Investment
+STU0329,BUS0009,1,Shared domain: Technology / Software Engineering
+STU0329,BUS0124,2,Shared domain: Technology / Software Engineering
+STU0329,BUS0144,3,Shared domain: Technology / Software Engineering
+STU0330,BUS0195,1,Shared domain: Consulting / Strategy
+STU0330,BUS0169,2,Shared domain: Consulting / Strategy
+STU0330,BUS0023,3,Shared domain: Consulting / Strategy
+STU0331,BUS0087,1,Shared domain: Media / Entertainment
+STU0331,BUS0115,2,Shared domain: Media / Entertainment
+STU0331,BUS0041,3,Shared domain: Media / Entertainment
+STU0332,BUS0070,1,Shared domain: Education / Nonprofit
+STU0332,BUS0078,2,Shared domain: Education / Nonprofit
+STU0332,BUS0189,3,Shared domain: Education / Nonprofit
+STU0333,BUS0196,1,Shared domain: Healthcare / Life Sciences
+STU0333,BUS0194,2,Shared domain: Healthcare / Life Sciences
+STU0333,BUS0040,3,Shared domain: Healthcare / Life Sciences
+STU0334,BUS0025,1,Shared domain: Education / Nonprofit
+STU0334,BUS0029,2,Shared domain: Education / Nonprofit
+STU0334,BUS0047,3,Shared domain: Education / Nonprofit
+STU0335,BUS0040,1,Shared domain: Healthcare / Life Sciences
+STU0335,BUS0053,2,Shared domain: Healthcare / Life Sciences
+STU0335,BUS0177,3,Shared domain: Healthcare / Life Sciences
+STU0336,BUS0126,1,Shared domain: Design / Creative
+STU0336,BUS0167,2,Shared domain: Design / Creative
+STU0336,BUS0112,3,Shared domain: Design / Creative
+STU0337,BUS0035,1,Shared domain: Technology / Software Engineering
+STU0337,BUS0054,2,Shared domain: Technology / Software Engineering
+STU0337,BUS0144,3,Shared domain: Technology / Software Engineering
+STU0338,BUS0075,1,Shared domain: Media / Entertainment
+STU0338,BUS0080,2,Shared domain: Media / Entertainment
+STU0338,BUS0063,3,Shared domain: Media / Entertainment
+STU0339,BUS0109,1,Shared domain: Media / Entertainment
+STU0339,BUS0059,2,Shared domain: Media / Entertainment
+STU0339,BUS0128,3,Shared domain: Media / Entertainment
+STU0340,BUS0189,1,Shared domain: Education / Nonprofit
+STU0340,BUS0088,2,Shared domain: Education / Nonprofit
+STU0340,BUS0038,3,Shared domain: Education / Nonprofit
+STU0341,BUS0074,1,Shared domain: Technology / Software Engineering
+STU0341,BUS0086,2,Shared domain: Technology / Software Engineering
+STU0341,BUS0081,3,Shared domain: Technology / Software Engineering
+STU0342,BUS0189,1,Shared domain: Education / Nonprofit
+STU0342,BUS0083,2,Shared domain: Education / Nonprofit
+STU0342,BUS0055,3,Shared domain: Education / Nonprofit
+STU0343,BUS0124,1,Shared domain: Technology / Software Engineering
+STU0343,BUS0181,2,Shared domain: Technology / Software Engineering
+STU0343,BUS0074,3,Shared domain: Technology / Software Engineering
+STU0344,BUS0151,1,Shared domain: Design / Creative
+STU0344,BUS0110,2,Shared domain: Design / Creative
+STU0344,BUS0156,3,Shared domain: Design / Creative
+STU0345,BUS0032,1,Shared domain: Design / Creative
+STU0345,BUS0192,2,Shared domain: Design / Creative
+STU0345,BUS0072,3,Shared domain: Design / Creative
+STU0346,BUS0050,1,Shared domain: Consulting / Strategy
+STU0346,BUS0118,2,Shared domain: Consulting / Strategy
+STU0346,BUS0089,3,Shared domain: Consulting / Strategy
+STU0347,BUS0003,1,Shared domain: Education / Nonprofit
+STU0347,BUS0038,2,Shared domain: Education / Nonprofit
+STU0347,BUS0070,3,Shared domain: Education / Nonprofit
+STU0348,BUS0150,1,Shared domain: Finance / Investment
+STU0348,BUS0106,2,Shared domain: Finance / Investment
+STU0348,BUS0176,3,Shared domain: Finance / Investment
+STU0349,BUS0048,1,Shared domain: Education / Nonprofit
+STU0349,BUS0189,2,Shared domain: Education / Nonprofit
+STU0349,BUS0030,3,Shared domain: Education / Nonprofit
+STU0350,BUS0132,1,Shared domain: Healthcare / Life Sciences
+STU0350,BUS0198,2,Shared domain: Healthcare / Life Sciences
+STU0350,BUS0196,3,Shared domain: Healthcare / Life Sciences
+STU0351,BUS0160,1,Shared domain: Consulting / Strategy
+STU0351,BUS0089,2,Shared domain: Consulting / Strategy
+STU0351,BUS0050,3,Shared domain: Consulting / Strategy
+STU0352,BUS0193,1,Shared domain: Education / Nonprofit
+STU0352,BUS0189,2,Shared domain: Education / Nonprofit
+STU0352,BUS0029,3,Shared domain: Education / Nonprofit
+STU0353,BUS0068,1,Shared domain: Media / Entertainment
+STU0353,BUS0174,2,Shared domain: Media / Entertainment
+STU0353,BUS0087,3,Shared domain: Media / Entertainment
+STU0354,BUS0101,1,Shared domain: Marketing / Communications
+STU0354,BUS0058,2,Shared domain: Marketing / Communications
+STU0354,BUS0057,3,Shared domain: Marketing / Communications
+STU0355,BUS0014,1,Shared domain: Consulting / Strategy
+STU0355,BUS0066,2,Shared domain: Consulting / Strategy
+STU0355,BUS0131,3,Shared domain: Consulting / Strategy
+STU0356,BUS0084,1,Shared domain: Finance / Investment
+STU0356,BUS0021,2,Shared domain: Finance / Investment
+STU0356,BUS0150,3,Shared domain: Finance / Investment
+STU0357,BUS0003,1,Shared domain: Education / Nonprofit
+STU0357,BUS0047,2,Shared domain: Education / Nonprofit
+STU0357,BUS0070,3,Shared domain: Education / Nonprofit
+STU0358,BUS0178,1,Shared domain: Finance / Investment
+STU0358,BUS0142,2,Shared domain: Finance / Investment
+STU0358,BUS0117,3,Shared domain: Finance / Investment
+STU0359,BUS0136,1,Shared domain: Finance / Investment
+STU0359,BUS0161,2,Shared domain: Finance / Investment
+STU0359,BUS0042,3,Shared domain: Finance / Investment
+STU0360,BUS0099,1,Shared domain: Technology / Software Engineering
+STU0360,BUS0171,2,Shared domain: Technology / Software Engineering
+STU0360,BUS0035,3,Shared domain: Technology / Software Engineering
+STU0361,BUS0131,1,Shared domain: Consulting / Strategy
+STU0361,BUS0118,2,Shared domain: Consulting / Strategy
+STU0361,BUS0090,3,Shared domain: Consulting / Strategy
+STU0362,BUS0142,1,Shared domain: Finance / Investment
+STU0362,BUS0106,2,Shared domain: Finance / Investment
+STU0362,BUS0117,3,Shared domain: Finance / Investment
+STU0363,BUS0135,1,Shared domain: Marketing / Communications
+STU0363,BUS0027,2,Shared domain: Marketing / Communications
+STU0363,BUS0143,3,Shared domain: Marketing / Communications
+STU0364,BUS0130,1,Shared domain: Media / Entertainment
+STU0364,BUS0069,2,Shared domain: Media / Entertainment
+STU0364,BUS0191,3,Shared domain: Media / Entertainment
+STU0365,BUS0095,1,Shared domain: Consulting / Strategy
+STU0365,BUS0014,2,Shared domain: Consulting / Strategy
+STU0365,BUS0160,3,Shared domain: Consulting / Strategy
+STU0366,BUS0059,1,Shared domain: Media / Entertainment
+STU0366,BUS0109,2,Shared domain: Media / Entertainment
+STU0366,BUS0079,3,Shared domain: Media / Entertainment
+STU0367,BUS0132,1,Shared domain: Healthcare / Life Sciences
+STU0367,BUS0061,2,Shared domain: Healthcare / Life Sciences
+STU0367,BUS0064,3,Shared domain: Healthcare / Life Sciences
+STU0368,BUS0024,1,Shared domain: Marketing / Communications
+STU0368,BUS0058,2,Shared domain: Marketing / Communications
+STU0368,BUS0022,3,Shared domain: Marketing / Communications
+STU0369,BUS0141,1,Shared domain: Consulting / Strategy
+STU0369,BUS0066,2,Shared domain: Consulting / Strategy
+STU0369,BUS0094,3,Shared domain: Consulting / Strategy
+STU0370,BUS0129,1,Shared domain: Design / Creative
+STU0370,BUS0127,2,Shared domain: Design / Creative
+STU0370,BUS0151,3,Shared domain: Design / Creative
+STU0371,BUS0002,1,Shared domain: Healthcare / Life Sciences
+STU0371,BUS0064,2,Shared domain: Healthcare / Life Sciences
+STU0371,BUS0060,3,Shared domain: Healthcare / Life Sciences
+STU0372,BUS0106,1,Shared domain: Finance / Investment
+STU0372,BUS0168,2,Shared domain: Finance / Investment
+STU0372,BUS0005,3,Shared domain: Finance / Investment
+STU0373,BUS0115,1,Shared domain: Media / Entertainment
+STU0373,BUS0063,2,Shared domain: Media / Entertainment
+STU0373,BUS0109,3,Shared domain: Media / Entertainment
+STU0374,BUS0118,1,Shared domain: Consulting / Strategy
+STU0374,BUS0026,2,Shared domain: Consulting / Strategy
+STU0374,BUS0085,3,Shared domain: Consulting / Strategy
+STU0375,BUS0147,1,Shared domain: Design / Creative
+STU0375,BUS0182,2,Shared domain: Design / Creative
+STU0375,BUS0036,3,Shared domain: Design / Creative
+STU0376,BUS0190,1,Shared domain: Consulting / Strategy
+STU0376,BUS0023,2,Shared domain: Consulting / Strategy
+STU0376,BUS0102,3,Shared domain: Consulting / Strategy
+STU0377,BUS0157,1,Shared domain: Marketing / Communications
+STU0377,BUS0143,2,Shared domain: Marketing / Communications
+STU0377,BUS0057,3,Shared domain: Marketing / Communications
+STU0378,BUS0038,1,Shared domain: Education / Nonprofit
+STU0378,BUS0047,2,Shared domain: Education / Nonprofit
+STU0378,BUS0193,3,Shared domain: Education / Nonprofit
+STU0379,BUS0069,1,Shared domain: Media / Entertainment
+STU0379,BUS0079,2,Shared domain: Media / Entertainment
+STU0379,BUS0174,3,Shared domain: Media / Entertainment
+STU0380,BUS0165,1,Shared domain: Consulting / Strategy
+STU0380,BUS0102,2,Shared domain: Consulting / Strategy
+STU0380,BUS0062,3,Shared domain: Consulting / Strategy
+STU0381,BUS0008,1,Shared domain: Education / Nonprofit
+STU0381,BUS0153,2,Shared domain: Education / Nonprofit
+STU0381,BUS0047,3,Shared domain: Education / Nonprofit
+STU0382,BUS0146,1,Shared domain: Finance / Investment
+STU0382,BUS0071,2,Shared domain: Finance / Investment
+STU0382,BUS0011,3,Shared domain: Finance / Investment
+STU0383,BUS0169,1,Shared domain: Consulting / Strategy
+STU0383,BUS0066,2,Shared domain: Consulting / Strategy
+STU0383,BUS0195,3,Shared domain: Consulting / Strategy
+STU0384,BUS0020,1,Shared domain: Marketing / Communications
+STU0384,BUS0024,2,Shared domain: Marketing / Communications
+STU0384,BUS0143,3,Shared domain: Marketing / Communications
+STU0385,BUS0087,1,Shared domain: Media / Entertainment
+STU0385,BUS0041,2,Shared domain: Media / Entertainment
+STU0385,BUS0075,3,Shared domain: Media / Entertainment
+STU0386,BUS0079,1,Shared domain: Media / Entertainment
+STU0386,BUS0191,2,Shared domain: Media / Entertainment
+STU0386,BUS0158,3,Shared domain: Media / Entertainment
+STU0387,BUS0198,1,Shared domain: Healthcare / Life Sciences
+STU0387,BUS0197,2,Shared domain: Healthcare / Life Sciences
+STU0387,BUS0037,3,Shared domain: Healthcare / Life Sciences
+STU0388,BUS0119,1,Shared domain: Consulting / Strategy
+STU0388,BUS0190,2,Shared domain: Consulting / Strategy
+STU0388,BUS0023,3,Shared domain: Consulting / Strategy
+STU0389,BUS0055,1,Shared domain: Education / Nonprofit
+STU0389,BUS0159,2,Shared domain: Education / Nonprofit
+STU0389,BUS0017,3,Shared domain: Education / Nonprofit
+STU0390,BUS0096,1,Shared domain: Design / Creative
+STU0390,BUS0129,2,Shared domain: Design / Creative
+STU0390,BUS0043,3,Shared domain: Design / Creative
+STU0391,BUS0102,1,Shared domain: Consulting / Strategy
+STU0391,BUS0026,2,Shared domain: Consulting / Strategy
+STU0391,BUS0105,3,Shared domain: Consulting / Strategy
+STU0392,BUS0066,1,Shared domain: Consulting / Strategy
+STU0392,BUS0045,2,Shared domain: Consulting / Strategy
+STU0392,BUS0119,3,Shared domain: Consulting / Strategy
+STU0393,BUS0151,1,Shared domain: Design / Creative
+STU0393,BUS0096,2,Shared domain: Design / Creative
+STU0393,BUS0156,3,Shared domain: Design / Creative
+STU0394,BUS0088,1,Shared domain: Education / Nonprofit
+STU0394,BUS0048,2,Shared domain: Education / Nonprofit
+STU0394,BUS0152,3,Shared domain: Education / Nonprofit
+STU0395,BUS0013,1,Shared domain: Media / Entertainment
+STU0395,BUS0158,2,Shared domain: Media / Entertainment
+STU0395,BUS0116,3,Shared domain: Media / Entertainment
+STU0396,BUS0022,1,Shared domain: Marketing / Communications
+STU0396,BUS0107,2,Shared domain: Marketing / Communications
+STU0396,BUS0049,3,Shared domain: Marketing / Communications
+STU0397,BUS0162,1,Shared domain: Technology / Software Engineering
+STU0397,BUS0171,2,Shared domain: Technology / Software Engineering
+STU0397,BUS0164,3,Shared domain: Technology / Software Engineering
+STU0398,BUS0128,1,Shared domain: Media / Entertainment
+STU0398,BUS0013,2,Shared domain: Media / Entertainment
+STU0398,BUS0080,3,Shared domain: Media / Entertainment
+STU0399,BUS0123,1,Shared domain: Technology / Software Engineering
+STU0399,BUS0164,2,Shared domain: Technology / Software Engineering
+STU0399,BUS0074,3,Shared domain: Technology / Software Engineering
+STU0400,BUS0130,1,Shared domain: Media / Entertainment
+STU0400,BUS0069,2,Shared domain: Media / Entertainment
+STU0400,BUS0109,3,Shared domain: Media / Entertainment
+STU0401,BUS0142,1,Shared domain: Finance / Investment
+STU0401,BUS0136,2,Shared domain: Finance / Investment
+STU0401,BUS0084,3,Shared domain: Finance / Investment
+STU0402,BUS0171,1,Shared domain: Technology / Software Engineering
+STU0402,BUS0081,2,Shared domain: Technology / Software Engineering
+STU0402,BUS0074,3,Shared domain: Technology / Software Engineering
+STU0403,BUS0138,1,Shared domain: Education / Nonprofit
+STU0403,BUS0038,2,Shared domain: Education / Nonprofit
+STU0403,BUS0055,3,Shared domain: Education / Nonprofit
+STU0404,BUS0103,1,Shared domain: Healthcare / Life Sciences
+STU0404,BUS0132,2,Shared domain: Healthcare / Life Sciences
+STU0404,BUS0196,3,Shared domain: Healthcare / Life Sciences
+STU0405,BUS0012,1,Shared domain: Finance / Investment
+STU0405,BUS0186,2,Shared domain: Finance / Investment
+STU0405,BUS0042,3,Shared domain: Finance / Investment
+STU0406,BUS0136,1,Shared domain: Finance / Investment
+STU0406,BUS0001,2,Shared domain: Finance / Investment
+STU0406,BUS0091,3,Shared domain: Finance / Investment
+STU0407,BUS0139,1,Shared domain: Design / Creative
+STU0407,BUS0129,2,Shared domain: Design / Creative
+STU0407,BUS0092,3,Shared domain: Design / Creative
+STU0408,BUS0069,1,Shared domain: Media / Entertainment
+STU0408,BUS0059,2,Shared domain: Media / Entertainment
+STU0408,BUS0116,3,Shared domain: Media / Entertainment
+STU0409,BUS0184,1,Shared domain: Education / Nonprofit
+STU0409,BUS0048,2,Shared domain: Education / Nonprofit
+STU0409,BUS0025,3,Shared domain: Education / Nonprofit
+STU0410,BUS0124,1,Shared domain: Technology / Software Engineering
+STU0410,BUS0086,2,Shared domain: Technology / Software Engineering
+STU0410,BUS0171,3,Shared domain: Technology / Software Engineering
+STU0411,BUS0172,1,Shared domain: Technology / Software Engineering
+STU0411,BUS0149,2,Shared domain: Technology / Software Engineering
+STU0411,BUS0039,3,Shared domain: Technology / Software Engineering
+STU0412,BUS0049,1,Shared domain: Marketing / Communications
+STU0412,BUS0022,2,Shared domain: Marketing / Communications
+STU0412,BUS0057,3,Shared domain: Marketing / Communications
+STU0413,BUS0075,1,Shared domain: Media / Entertainment
+STU0413,BUS0087,2,Shared domain: Media / Entertainment
+STU0413,BUS0137,3,Shared domain: Media / Entertainment
+STU0414,BUS0087,1,Shared domain: Media / Entertainment
+STU0414,BUS0109,2,Shared domain: Media / Entertainment
+STU0414,BUS0137,3,Shared domain: Media / Entertainment
+STU0415,BUS0144,1,Shared domain: Technology / Software Engineering
+STU0415,BUS0033,2,Shared domain: Technology / Software Engineering
+STU0415,BUS0172,3,Shared domain: Technology / Software Engineering
+STU0416,BUS0087,1,Shared domain: Media / Entertainment
+STU0416,BUS0174,2,Shared domain: Media / Entertainment
+STU0416,BUS0075,3,Shared domain: Media / Entertainment
+STU0417,BUS0131,1,Shared domain: Consulting / Strategy
+STU0417,BUS0160,2,Shared domain: Consulting / Strategy
+STU0417,BUS0050,3,Shared domain: Consulting / Strategy
+STU0418,BUS0091,1,Shared domain: Finance / Investment
+STU0418,BUS0042,2,Shared domain: Finance / Investment
+STU0418,BUS0044,3,Shared domain: Finance / Investment
+STU0419,BUS0101,1,Shared domain: Marketing / Communications
+STU0419,BUS0027,2,Shared domain: Marketing / Communications
+STU0419,BUS0173,3,Shared domain: Marketing / Communications
+STU0420,BUS0174,1,Shared domain: Media / Entertainment
+STU0420,BUS0069,2,Shared domain: Media / Entertainment
+STU0420,BUS0109,3,Shared domain: Media / Entertainment
+STU0421,BUS0137,1,Shared domain: Media / Entertainment
+STU0421,BUS0130,2,Shared domain: Media / Entertainment
+STU0421,BUS0116,3,Shared domain: Media / Entertainment
+STU0422,BUS0074,1,Shared domain: Technology / Software Engineering
+STU0422,BUS0054,2,Shared domain: Technology / Software Engineering
+STU0422,BUS0144,3,Shared domain: Technology / Software Engineering
+STU0423,BUS0081,1,Shared domain: Technology / Software Engineering
+STU0423,BUS0099,2,Shared domain: Technology / Software Engineering
+STU0423,BUS0035,3,Shared domain: Technology / Software Engineering
+STU0424,BUS0087,1,Shared domain: Media / Entertainment
+STU0424,BUS0109,2,Shared domain: Media / Entertainment
+STU0424,BUS0114,3,Shared domain: Media / Entertainment
+STU0425,BUS0182,1,Shared domain: Design / Creative
+STU0425,BUS0112,2,Shared domain: Design / Creative
+STU0425,BUS0127,3,Shared domain: Design / Creative
+STU0426,BUS0087,1,Shared domain: Media / Entertainment
+STU0426,BUS0116,2,Shared domain: Media / Entertainment
+STU0426,BUS0158,3,Shared domain: Media / Entertainment
+STU0427,BUS0120,1,Shared domain: Design / Creative
+STU0427,BUS0192,2,Shared domain: Design / Creative
+STU0427,BUS0126,3,Shared domain: Design / Creative
+STU0428,BUS0015,1,Shared domain: Design / Creative
+STU0428,BUS0192,2,Shared domain: Design / Creative
+STU0428,BUS0120,3,Shared domain: Design / Creative
+STU0429,BUS0010,1,Shared domain: Technology / Software Engineering
+STU0429,BUS0123,2,Shared domain: Technology / Software Engineering
+STU0429,BUS0099,3,Shared domain: Technology / Software Engineering
+STU0430,BUS0141,1,Shared domain: Consulting / Strategy
+STU0430,BUS0190,2,Shared domain: Consulting / Strategy
+STU0430,BUS0050,3,Shared domain: Consulting / Strategy
+STU0431,BUS0127,1,Shared domain: Design / Creative
+STU0431,BUS0192,2,Shared domain: Design / Creative
+STU0431,BUS0110,3,Shared domain: Design / Creative
+STU0432,BUS0004,1,Shared domain: Marketing / Communications
+STU0432,BUS0049,2,Shared domain: Marketing / Communications
+STU0432,BUS0173,3,Shared domain: Marketing / Communications
+STU0433,BUS0172,1,Shared domain: Technology / Software Engineering
+STU0433,BUS0181,2,Shared domain: Technology / Software Engineering
+STU0433,BUS0074,3,Shared domain: Technology / Software Engineering
+STU0434,BUS0089,1,Shared domain: Consulting / Strategy
+STU0434,BUS0195,2,Shared domain: Consulting / Strategy
+STU0434,BUS0094,3,Shared domain: Consulting / Strategy
+STU0435,BUS0004,1,Shared domain: Marketing / Communications
+STU0435,BUS0097,2,Shared domain: Marketing / Communications
+STU0435,BUS0104,3,Shared domain: Marketing / Communications
+STU0436,BUS0179,1,Shared domain: Healthcare / Life Sciences
+STU0436,BUS0134,2,Shared domain: Healthcare / Life Sciences
+STU0436,BUS0060,3,Shared domain: Healthcare / Life Sciences
+STU0437,BUS0034,1,Shared domain: Education / Nonprofit
+STU0437,BUS0153,2,Shared domain: Education / Nonprofit
+STU0437,BUS0093,3,Shared domain: Education / Nonprofit
+STU0438,BUS0107,1,Shared domain: Marketing / Communications
+STU0438,BUS0058,2,Shared domain: Marketing / Communications
+STU0438,BUS0022,3,Shared domain: Marketing / Communications
+STU0439,BUS0031,1,Shared domain: Technology / Software Engineering
+STU0439,BUS0054,2,Shared domain: Technology / Software Engineering
+STU0439,BUS0039,3,Shared domain: Technology / Software Engineering
+STU0440,BUS0134,1,Shared domain: Healthcare / Life Sciences
+STU0440,BUS0198,2,Shared domain: Healthcare / Life Sciences
+STU0440,BUS0007,3,Shared domain: Healthcare / Life Sciences
+STU0441,BUS0172,1,Shared domain: Technology / Software Engineering
+STU0441,BUS0121,2,Shared domain: Technology / Software Engineering
+STU0441,BUS0181,3,Shared domain: Technology / Software Engineering
+STU0442,BUS0176,1,Shared domain: Finance / Investment
+STU0442,BUS0136,2,Shared domain: Finance / Investment
+STU0442,BUS0067,3,Shared domain: Finance / Investment
+STU0443,BUS0085,1,Shared domain: Consulting / Strategy
+STU0443,BUS0140,2,Shared domain: Consulting / Strategy
+STU0443,BUS0131,3,Shared domain: Consulting / Strategy
+STU0444,BUS0101,1,Shared domain: Marketing / Communications
+STU0444,BUS0019,2,Shared domain: Marketing / Communications
+STU0444,BUS0022,3,Shared domain: Marketing / Communications
+STU0445,BUS0010,1,Shared domain: Technology / Software Engineering
+STU0445,BUS0171,2,Shared domain: Technology / Software Engineering
+STU0445,BUS0086,3,Shared domain: Technology / Software Engineering
+STU0446,BUS0085,1,Shared domain: Consulting / Strategy
+STU0446,BUS0119,2,Shared domain: Consulting / Strategy
+STU0446,BUS0094,3,Shared domain: Consulting / Strategy
+STU0447,BUS0107,1,Shared domain: Marketing / Communications
+STU0447,BUS0076,2,Shared domain: Marketing / Communications
+STU0447,BUS0022,3,Shared domain: Marketing / Communications
+STU0448,BUS0088,1,Shared domain: Education / Nonprofit
+STU0448,BUS0029,2,Shared domain: Education / Nonprofit
+STU0448,BUS0193,3,Shared domain: Education / Nonprofit
+STU0449,BUS0020,1,Shared domain: Marketing / Communications
+STU0449,BUS0097,2,Shared domain: Marketing / Communications
+STU0449,BUS0104,3,Shared domain: Marketing / Communications
+STU0450,BUS0068,1,Shared domain: Media / Entertainment
+STU0450,BUS0191,2,Shared domain: Media / Entertainment
+STU0450,BUS0158,3,Shared domain: Media / Entertainment
+STU0451,BUS0076,1,Shared domain: Marketing / Communications
+STU0451,BUS0157,2,Shared domain: Marketing / Communications
+STU0451,BUS0049,3,Shared domain: Marketing / Communications
+STU0452,BUS0138,1,Shared domain: Education / Nonprofit
+STU0452,BUS0017,2,Shared domain: Education / Nonprofit
+STU0452,BUS0083,3,Shared domain: Education / Nonprofit
+STU0453,BUS0067,1,Shared domain: Finance / Investment
+STU0453,BUS0091,2,Shared domain: Finance / Investment
+STU0453,BUS0150,3,Shared domain: Finance / Investment
+STU0454,BUS0147,1,Shared domain: Design / Creative
+STU0454,BUS0192,2,Shared domain: Design / Creative
+STU0454,BUS0167,3,Shared domain: Design / Creative
+STU0455,BUS0080,1,Shared domain: Media / Entertainment
+STU0455,BUS0145,2,Shared domain: Media / Entertainment
+STU0455,BUS0137,3,Shared domain: Media / Entertainment
+STU0456,BUS0087,1,Shared domain: Media / Entertainment
+STU0456,BUS0013,2,Shared domain: Media / Entertainment
+STU0456,BUS0068,3,Shared domain: Media / Entertainment
+STU0457,BUS0017,1,Shared domain: Education / Nonprofit
+STU0457,BUS0189,2,Shared domain: Education / Nonprofit
+STU0457,BUS0193,3,Shared domain: Education / Nonprofit
+STU0458,BUS0109,1,Shared domain: Media / Entertainment
+STU0458,BUS0114,2,Shared domain: Media / Entertainment
+STU0458,BUS0128,3,Shared domain: Media / Entertainment
+STU0459,BUS0061,1,Shared domain: Healthcare / Life Sciences
+STU0459,BUS0056,2,Shared domain: Healthcare / Life Sciences
+STU0459,BUS0134,3,Shared domain: Healthcare / Life Sciences
+STU0460,BUS0107,1,Shared domain: Marketing / Communications
+STU0460,BUS0057,2,Shared domain: Marketing / Communications
+STU0460,BUS0183,3,Shared domain: Marketing / Communications
+STU0461,BUS0113,1,Shared domain: Design / Creative
+STU0461,BUS0112,2,Shared domain: Design / Creative
+STU0461,BUS0096,3,Shared domain: Design / Creative
+STU0462,BUS0172,1,Shared domain: Technology / Software Engineering
+STU0462,BUS0181,2,Shared domain: Technology / Software Engineering
+STU0462,BUS0074,3,Shared domain: Technology / Software Engineering
+STU0463,BUS0080,1,Shared domain: Media / Entertainment
+STU0463,BUS0174,2,Shared domain: Media / Entertainment
+STU0463,BUS0013,3,Shared domain: Media / Entertainment
+STU0464,BUS0050,1,Shared domain: Consulting / Strategy
+STU0464,BUS0045,2,Shared domain: Consulting / Strategy
+STU0464,BUS0141,3,Shared domain: Consulting / Strategy
+STU0465,BUS0125,1,Shared domain: Finance / Investment
+STU0465,BUS0117,2,Shared domain: Finance / Investment
+STU0465,BUS0188,3,Shared domain: Finance / Investment
+STU0466,BUS0088,1,Shared domain: Education / Nonprofit
+STU0466,BUS0008,2,Shared domain: Education / Nonprofit
+STU0466,BUS0093,3,Shared domain: Education / Nonprofit
+STU0467,BUS0019,1,Shared domain: Marketing / Communications
+STU0467,BUS0143,2,Shared domain: Marketing / Communications
+STU0467,BUS0098,3,Shared domain: Marketing / Communications
+STU0468,BUS0003,1,Shared domain: Education / Nonprofit
+STU0468,BUS0152,2,Shared domain: Education / Nonprofit
+STU0468,BUS0082,3,Shared domain: Education / Nonprofit
+STU0469,BUS0019,1,Shared domain: Marketing / Communications
+STU0469,BUS0143,2,Shared domain: Marketing / Communications
+STU0469,BUS0097,3,Shared domain: Marketing / Communications
+STU0470,BUS0190,1,Shared domain: Consulting / Strategy
+STU0470,BUS0119,2,Shared domain: Consulting / Strategy
+STU0470,BUS0105,3,Shared domain: Consulting / Strategy
+STU0471,BUS0089,1,Shared domain: Consulting / Strategy
+STU0471,BUS0131,2,Shared domain: Consulting / Strategy
+STU0471,BUS0090,3,Shared domain: Consulting / Strategy
+STU0472,BUS0171,1,Shared domain: Technology / Software Engineering
+STU0472,BUS0031,2,Shared domain: Technology / Software Engineering
+STU0472,BUS0162,3,Shared domain: Technology / Software Engineering
+STU0473,BUS0020,1,Shared domain: Marketing / Communications
+STU0473,BUS0154,2,Shared domain: Marketing / Communications
+STU0473,BUS0022,3,Shared domain: Marketing / Communications
+STU0474,BUS0154,1,Shared domain: Marketing / Communications
+STU0474,BUS0027,2,Shared domain: Marketing / Communications
+STU0474,BUS0143,3,Shared domain: Marketing / Communications
+STU0475,BUS0011,1,Shared domain: Finance / Investment
+STU0475,BUS0150,2,Shared domain: Finance / Investment
+STU0475,BUS0133,3,Shared domain: Finance / Investment
+STU0476,BUS0173,1,Shared domain: Marketing / Communications
+STU0476,BUS0049,2,Shared domain: Marketing / Communications
+STU0476,BUS0020,3,Shared domain: Marketing / Communications
+STU0477,BUS0186,1,Shared domain: Finance / Investment
+STU0477,BUS0168,2,Shared domain: Finance / Investment
+STU0477,BUS0125,3,Shared domain: Finance / Investment
+STU0478,BUS0058,1,Shared domain: Marketing / Communications
+STU0478,BUS0107,2,Shared domain: Marketing / Communications
+STU0478,BUS0173,3,Shared domain: Marketing / Communications
+STU0479,BUS0193,1,Shared domain: Education / Nonprofit
+STU0479,BUS0029,2,Shared domain: Education / Nonprofit
+STU0479,BUS0159,3,Shared domain: Education / Nonprofit
+STU0480,BUS0086,1,Shared domain: Technology / Software Engineering
+STU0480,BUS0031,2,Shared domain: Technology / Software Engineering
+STU0480,BUS0039,3,Shared domain: Technology / Software Engineering
+STU0481,BUS0166,1,Shared domain: Finance / Investment
+STU0481,BUS0150,2,Shared domain: Finance / Investment
+STU0481,BUS0091,3,Shared domain: Finance / Investment
+STU0482,BUS0133,1,Shared domain: Finance / Investment
+STU0482,BUS0142,2,Shared domain: Finance / Investment
+STU0482,BUS0186,3,Shared domain: Finance / Investment
+STU0483,BUS0180,1,Shared domain: Design / Creative
+STU0483,BUS0182,2,Shared domain: Design / Creative
+STU0483,BUS0126,3,Shared domain: Design / Creative
+STU0484,BUS0013,1,Shared domain: Media / Entertainment
+STU0484,BUS0115,2,Shared domain: Media / Entertainment
+STU0484,BUS0158,3,Shared domain: Media / Entertainment
+STU0485,BUS0081,1,Shared domain: Technology / Software Engineering
+STU0485,BUS0009,2,Shared domain: Technology / Software Engineering
+STU0485,BUS0164,3,Shared domain: Technology / Software Engineering
+STU0486,BUS0121,1,Shared domain: Technology / Software Engineering
+STU0486,BUS0009,2,Shared domain: Technology / Software Engineering
+STU0486,BUS0054,3,Shared domain: Technology / Software Engineering
+STU0487,BUS0086,1,Shared domain: Technology / Software Engineering
+STU0487,BUS0123,2,Shared domain: Technology / Software Engineering
+STU0487,BUS0035,3,Shared domain: Technology / Software Engineering
+STU0488,BUS0047,1,Shared domain: Education / Nonprofit
+STU0488,BUS0038,2,Shared domain: Education / Nonprofit
+STU0488,BUS0152,3,Shared domain: Education / Nonprofit
+STU0489,BUS0184,1,Shared domain: Education / Nonprofit
+STU0489,BUS0055,2,Shared domain: Education / Nonprofit
+STU0489,BUS0138,3,Shared domain: Education / Nonprofit
+STU0490,BUS0127,1,Shared domain: Design / Creative
+STU0490,BUS0163,2,Shared domain: Design / Creative
+STU0490,BUS0167,3,Shared domain: Design / Creative
+STU0491,BUS0052,1,Shared domain: Technology / Software Engineering
+STU0491,BUS0162,2,Shared domain: Technology / Software Engineering
+STU0491,BUS0099,3,Shared domain: Technology / Software Engineering
+STU0492,BUS0189,1,Shared domain: Education / Nonprofit
+STU0492,BUS0152,2,Shared domain: Education / Nonprofit
+STU0492,BUS0029,3,Shared domain: Education / Nonprofit
+STU0493,BUS0075,1,Shared domain: Media / Entertainment
+STU0493,BUS0068,2,Shared domain: Media / Entertainment
+STU0493,BUS0191,3,Shared domain: Media / Entertainment
+STU0494,BUS0132,1,Shared domain: Healthcare / Life Sciences
+STU0494,BUS0056,2,Shared domain: Healthcare / Life Sciences
+STU0494,BUS0037,3,Shared domain: Healthcare / Life Sciences
+STU0495,BUS0013,1,Shared domain: Media / Entertainment
+STU0495,BUS0145,2,Shared domain: Media / Entertainment
+STU0495,BUS0041,3,Shared domain: Media / Entertainment
+STU0496,BUS0186,1,Shared domain: Finance / Investment
+STU0496,BUS0021,2,Shared domain: Finance / Investment
+STU0496,BUS0146,3,Shared domain: Finance / Investment
+STU0497,BUS0106,1,Shared domain: Finance / Investment
+STU0497,BUS0011,2,Shared domain: Finance / Investment
+STU0497,BUS0091,3,Shared domain: Finance / Investment
+STU0498,BUS0086,1,Shared domain: Technology / Software Engineering
+STU0498,BUS0054,2,Shared domain: Technology / Software Engineering
+STU0498,BUS0172,3,Shared domain: Technology / Software Engineering
+STU0499,BUS0049,1,Shared domain: Marketing / Communications
+STU0499,BUS0183,2,Shared domain: Marketing / Communications
+STU0499,BUS0076,3,Shared domain: Marketing / Communications
+STU0500,BUS0039,1,Shared domain: Technology / Software Engineering
+STU0500,BUS0123,2,Shared domain: Technology / Software Engineering
+STU0500,BUS0074,3,Shared domain: Technology / Software Engineering
