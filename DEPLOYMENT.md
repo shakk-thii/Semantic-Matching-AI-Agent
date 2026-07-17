@@ -28,7 +28,7 @@ requirements.txt
    ANTHROPIC_API_KEY = "sk-ant-your-key-here"
    ```
    Get a key at https://console.anthropic.com. Without this, the app still works
-   fully — users just won't see the "Use AI-generated explanations" toggle populate
+   fully , users just won't see the "Use AI-generated explanations" toggle populate
    automatically (they can still paste in their own key at runtime if you leave that
    input visible).
 5. Click **Deploy**.
@@ -52,7 +52,7 @@ That's it — you'll get a free public URL like:
 - Explanations are cached to `llm_explanation_cache.json` by student+business pair,
   so re-viewing the same match never re-triggers a paid API call.
 - If the API call fails for any reason (bad key, rate limit, no network), the app
-  automatically falls back to the free rule-based explanation — the feature never
+  automatically falls back to the free rule-based explanation the feature never
   breaks the app, it just silently degrades.
 
 ## Notes on the feedback loop
